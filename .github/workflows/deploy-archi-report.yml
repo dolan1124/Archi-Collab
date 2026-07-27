@@ -1,0 +1,26 @@
+name: Deploy Archi Report
+on:
+ push:
+ branches: [main] # Or 'master', depending on your default branch
+ paths:
+ - 'model/**'
+ - '.github/workflows/deploy-archi-report.yml'
+jobs:
+ archi_report:
+ permissions:
+ contents: write
+ pages: write
+ runs-on: ubuntu-latest
+ name: Generate and Deploy Archi HTML Report
+ steps:
+ - name: Check out the repo
+ uses: actions/checkout@v3
+ - name: Deploy Archi report
+ id: archi
+ uses: WoozyMasta/archimate-ci-image@5.7.0-1.0.6
+ with:
+ archiHtmlReportEnabled: true
+ archiJasperReportEnabled: false
+ archiCsvReportEnabled: false
+ archiExportModelEnabled: true
+ githubToken: ${{ secrets.GITHUB_TOKEN }}
