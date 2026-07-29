@@ -1,32 +1,30 @@
-name: Archi HTML Report
+name: Generate Archi HTML Report
 
 on:
   push:
     branches:
-      - main
+      - master
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
 
 jobs:
   archi_report:
-    permissions:
-      contents: write
-      pages: write
-
     runs-on: ubuntu-latest
 
-    name: Deploy Archi report HTML to GitHub Pages
-
     steps:
-      - name: Check out the repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Deploy Archi report
-        id: archi
+      - name: Generate Archi Report
         uses: WoozyMasta/archimate-ci-image@5.7.0-1.0.6
         with:
-          archiHtmlReportEnabled: true
-          archiJasperReportEnabled: true
-          archiJasperReportFormats: PDF,DOCX
-          archiCsvReportEnabled: false
-          archiExportModelEnabled: true
           githubToken: ${{ secrets.GITHUB_TOKEN }}
+          archiHtmlReportEnabled: true
+          archiCsvReportEnabled: false
+          archiJasperReportEnabled: false
+          archiExportModelEnabled: true
           
