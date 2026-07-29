@@ -1,13 +1,23 @@
+name: Archi HTML Report
+
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   archi_report:
     permissions:
       contents: write
       pages: write
+
     runs-on: ubuntu-latest
+
     name: Deploy Archi report HTML to GitHub Pages
+
     steps:
       - name: Check out the repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Deploy Archi report
         id: archi
@@ -19,3 +29,4 @@ jobs:
           archiCsvReportEnabled: false
           archiExportModelEnabled: true
           githubToken: ${{ secrets.GITHUB_TOKEN }}
+          
