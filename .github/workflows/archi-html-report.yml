@@ -1,0 +1,2 @@
+- name: Deploy Archi Report
+  uses: WoozyMasta/archimate-ci-image@5.7.0-1.0.6
