@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Community Health Info System Service "
+    id="id-a8ef8bc223f549e59220d08300328ceb"
+    documentation="Community Health Info System Service - provides patients with discharge instructions, follow-up appointments, reminders."/>

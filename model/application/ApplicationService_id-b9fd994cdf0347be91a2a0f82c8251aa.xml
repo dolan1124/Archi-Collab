@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Pathway Orchestration Service"
+    id="id-b9fd994cdf0347be91a2a0f82c8251aa"
+    documentation="Care Pathway Orchestration Service: manages chronic condition pathways, preventive screening schedules, and milestones."/>

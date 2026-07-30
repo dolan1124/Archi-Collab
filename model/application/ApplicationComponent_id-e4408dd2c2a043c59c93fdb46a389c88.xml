@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electronic Medical Record"
+    id="id-e4408dd2c2a043c59c93fdb46a389c88"
+    documentation="Electronic Medical Record: This is the front-end that healthcare workers interact with, providing a unified dashboard for patient history, protocols, and decision support alerts."/>

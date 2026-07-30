@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clinical Decision Support Integration"
+    id="id-c8e479bf67ec46f4b54487132c80601b"
+    documentation="This sub-goal enables healthcare systems to embed evidence-based recommendations directly into clinical workflows and digital platforms. It allows healthcare providers to receive real-time guidance and alerts while delivering patient care.&#xD;&#xA;&#xD;&#xA;The purpose of this sub-goal is to imprve the consistency, quality, and safety of clinical decisions across healthcare facilities. It also reduces errors, delays, and unnecessary variations in diagnoses and treatment.&#xD;&#xA;&#xD;&#xA;Example: A hospital electronic medical record system automatically alerts physicians when a prescribed medication may conflict with a patient’s allergy history."/>

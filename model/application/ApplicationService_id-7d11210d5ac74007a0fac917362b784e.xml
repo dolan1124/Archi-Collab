@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Administration and Entitlement Management"
+    id="id-7d11210d5ac74007a0fac917362b784e"
+    documentation="This service manages the digital lifecycle of insurance policies and the specific benefit rules associated with them. It maintains the authoritative database of what services, medications, and treatments each specific member is entitled to receive.&#xD;&#xA;&#xD;&#xA;The intent is to ensure that benefit rules are applied consistently and accurately across the entire healthcare network. It allows for the rapid update of coverage policies as national health priorities or budgets change over time.&#xD;&#xA;&#xD;&#xA;Example: A service that automatically updates the coverage rules for 1 million members to include a newly approved high-priority vaccine."/>

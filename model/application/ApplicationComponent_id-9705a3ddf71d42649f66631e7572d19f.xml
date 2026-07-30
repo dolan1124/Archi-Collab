@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adverse Event Reporting System (AERS)"
+    id="id-9705a3ddf71d42649f66631e7572d19f"
+    documentation="A specialized database and surveillance platform used by regulatory agencies, pharmaceutical companies, and health authorities to collect, store, and analyze reports of unintended, harmful, or unexpected medical occurrences (adverse events) associated with the use of a marketed health product&#xD;&#xA;&#xD;&#xA;Example: Public health event notification of the WHO Facility Registry identifies the reporting facility for case confirmation and event traceability.&#xD;&#xA;"/>

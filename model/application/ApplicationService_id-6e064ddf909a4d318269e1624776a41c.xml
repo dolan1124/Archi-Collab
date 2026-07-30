@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event Signing and Trusted Timestamping"
+    id="id-6e064ddf909a4d318269e1624776a41c"
+    documentation="The self-contained software component within the enterprise application layer that applies cryptographic signatures and cryptographically secure time-markers to transactional logs, credential changes, and system activities.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to establish non-repudiation and proof of existence for critical operational data, ensuring that an event's data integrity and the exact moment it occurred cannot be retroactively altered, falsified, or contested.&#xD;&#xA;&#xD;&#xA;Example: &quot;The Event Signing and Trusted Timestamping service automatically sealed a surgeon's digital signature on a blood transfusion authorization, creating a permanent, tamper-proof record that legally verified exactly when the procedure was approved.&quot;"/>

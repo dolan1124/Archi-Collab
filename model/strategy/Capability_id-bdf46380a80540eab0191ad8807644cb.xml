@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud and Anomaly Detection"
+    id="id-bdf46380a80540eab0191ad8807644cb"
+    documentation="This capability uses advanced analytics and machine learning to scan large volumes of financial data for patterns indicative of deceptive behavior or errors. It flags suspicious activities, such as phantom billing or duplicate claims, for investigation.&#xD;&#xA;&#xD;&#xA;The objective is to minimize financial leakage and protect health funds from being lost to fraud or waste. It ensures that resources are preserved for legitimate patient care and maintains public trust in the financial integrity of the system.&#xD;&#xA;&#xD;&#xA;Example: An AI system flagging a clinic that is billing for more hours of service in a day than its registered staff could possibly provide."/>

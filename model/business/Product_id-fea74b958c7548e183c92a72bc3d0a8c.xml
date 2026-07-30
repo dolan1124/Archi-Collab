@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Trust Services (certificates, signatures)"
+    id="id-fea74b958c7548e183c92a72bc3d0a8c"
+    documentation="This product represents the suite of cryptographic tools, such as digital certificates and electronic signatures, used to secure health transactions. It provides the technical foundation for the &quot;verifiable&quot; aspect of health records.&#xD;&#xA;&#xD;&#xA;The purpose is to establish a non-repudiable and tamper-proof environment for health information exchange. This ensures that any clinical document can be treated as an authentic and legal record by any participant in the network.&#xD;&#xA;&#xD;&#xA;Example: A national certificate authority that issues digital &quot;stamps&quot; to accredited laboratories for signing test results.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provider and Facility Dashboard"
+    id="id-1de352570bdb4ab48166750c389dd753"
+    documentation="This applicaton component presents healthcare quality indicators, benchmarks, alerts, and performance insights through interactive visual interfaces. It provides healthcare providers and administrators with real-time visibility into operational and clinical quality metrics.&#xD;&#xA;&#xD;&#xA;The purpose is to support informed decision-making, performance monitoring, and accountability across healthcare facilities and providers. It also improves accessibility and interpretation of quality information.&#xD;&#xA;&#xD;&#xA;Example: Hospital managers monitor patient satisfaction scores, emergency department wait times, and safety indicators through a centralized dashboard."/>

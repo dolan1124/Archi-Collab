@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electronic Case Reporting System (eCR)"
+    id="id-d881d4f5966d4969b6eea9c934ccb7ef"
+    documentation="A secure, digital software platform used by healthcare providers, laboratories, and institutions to automatically or manually transmit health data (such as disease diagnoses, immunization records, or adverse drug events) to public health authorities and regulatory bodies for tracking, analysis, and response &#xD;&#xA;&#xD;&#xA;Example: Person based reporting of the WHO Client Registry links person-reported public health events to unique identities for early outbreak detection&#xD;&#xA;"/>

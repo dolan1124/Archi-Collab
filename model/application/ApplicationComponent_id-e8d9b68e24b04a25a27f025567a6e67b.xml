@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Management Component "
+    id="id-e8d9b68e24b04a25a27f025567a6e67b"
+    documentation="This component handles the creation, assignment, tracking, and escalation of tasks within the care team platform. It manages task state transitions, ownership, deadlines, and notifications throughout the task lifecycle.&#xD;&#xA;&#xD;&#xA;The purpose of this component is to provide the operational backbone for coordinated care activity by ensuring that every task has a clear owner, status, and escalation path. It supports both clinical and administrative task workflows.&#xD;&#xA;&#xD;&#xA;Example: A care coordinator creates a series of post-discharge tasks, assigns them to specific team members, and monitors completion status through the component's task tracking interface."/>

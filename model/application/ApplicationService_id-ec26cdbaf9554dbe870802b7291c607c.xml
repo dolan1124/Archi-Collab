@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Reporting and Visualization Service"
+    id="id-ec26cdbaf9554dbe870802b7291c607c"
+    documentation="The specific application service that extracts raw data from various systems and transforms it into visual charts, graphs, and dashboards. It provides a standardized interface for users to generate reports and interact with operational metrics in real time.&#xD;&#xA;&#xD;&#xA;It allows non-technical administrators and managers to quickly interpret complex payroll and workforce trends without querying databases manually. This visual access speeds up decision-making and makes it easier to share performance insights across different hospital departments.&#xD;&#xA;&#xD;&#xA;Example: &quot;The business intelligence reporting service that automatically generates monthly labor cost charts and displays overtime spikes on the HR management dashboard.&quot;"/>

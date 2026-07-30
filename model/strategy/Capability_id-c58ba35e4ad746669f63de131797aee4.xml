@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Transition Coordination"
+    id="id-c58ba35e4ad746669f63de131797aee4"
+    documentation="Care Transition Coordination:&#xD;&#xA;Standardized discharge, referral, and transfer protocols.&#xD;&#xA;Creation and exchange of structured transition documentation (e.g., discharge summary, referral note).&#xD;&#xA;Task assignment for follow-up actions (appointments, medication reconciliation).&#xD;&#xA;Communication channel for clarifications between sending and receiving providers.&#xD;&#xA;Patient and caregiver empowerment (education, follow-up reminders, self-monitoring tools)."/>

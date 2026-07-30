@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Safeguarding: Enforce Privacy, Security, Fraud Controls across Coverage Operations"
+    id="id-ddfdcb47aa7e486ab7d23dd87ca442e6"
+    documentation="Safeguarding refers to the enforcement of privacy, security, and fraud controls across all health financing and coverage operations. It involves the implementation of technical and administrative measures to protect sensitive financial and personal data.&#xD;&#xA;&#xD;&#xA;The purpose is to maintain the integrity of the health financing system and protect it from misuse or cyber threats. It ensures that user data is handled ethically and that health funds are protected against fraudulent claims and administrative waste.&#xD;&#xA;&#xD;&#xA;Example: A security monitoring system that uses anomaly detection to identify and block suspicious billing patterns from healthcare facilities."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit and Compliance Monitoring"
+    id="id-78f9146a31344592b238ee0bb4c8cb0f"
+    documentation="This capability involves the continuous tracking and recording of all data access and system activities for oversight and accountability. It provides the audit trails necessary to verify that all transactions comply with established policies.&#xD;&#xA;&#xD;&#xA;The purpose is to provide transparency and ensure that any unauthorized or improper use of data is detected and addressed. This supports regulatory compliance and reinforces stakeholder trust in system integrity.&#xD;&#xA;&#xD;&#xA;Example: A monitoring service that alerts administrators if a patient record is accessed without a corresponding consent record.&#xD;&#xA;"/>

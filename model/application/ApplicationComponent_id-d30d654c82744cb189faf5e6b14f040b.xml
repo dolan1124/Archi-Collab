@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Middleware (FHIR server, IHE adapters)"
+    id="id-d30d654c82744cb189faf5e6b14f040b"
+    documentation="Interoperability Middleware is the software layer that enables different health IT systems to exchange data using standardized protocols. it typically includes FHIR servers and adapters that translate proprietary data into common interoperability formats.&#xD;&#xA;&#xD;&#xA;The purpose is to eliminate data silos and enable seamless information flow across providers, facilities, and jurisdictions. It allows diverse systems to communicate effectively, ensuring that the health record is truly portable.&#xD;&#xA;&#xD;&#xA;Example: A middleware hub that translates a local clinic’s legacy patient data into a modern FHIR resource for the national health exchange."/>

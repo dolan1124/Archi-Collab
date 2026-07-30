@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent and Delegation Manager"
+    id="id-9bca46d3d9a045f7affb684bd0f6e1c0"
+    documentation="This component manages the recording, storage, and enforcement of patient consents and caregiver delegation permissions using FHIR Consent resources linked to the Master Patient Index and role management systems. It ensures access rights are always aligned with the patient's current preferences.&#xD;&#xA;&#xD;&#xA;The purpose of this component is to provide the governance layer that controls who can access and act on a patient's health information and on what basis. It ensures that consent is applied consistently across all platform services and that changes take effect immediately.&#xD;&#xA;&#xD;&#xA;Example: When a patient revokes caregiver access through the portal, the component immediately updates permissions across all connected services, preventing further access by the previously delegated family member."/>

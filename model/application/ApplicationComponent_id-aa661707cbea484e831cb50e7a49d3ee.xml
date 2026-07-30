@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Administration"
+    id="id-aa661707cbea484e831cb50e7a49d3ee"
+    documentation="This component manages the digital lifecycle of health insurance policies, including the definition of terms, coverage periods, and premium settings. It handles the backend logic for maintaining different insurance products and membership tiers.&#xD;&#xA;&#xD;&#xA;Its purpose is to ensure that insurance schemes are managed according to established legal and financial rules. It allows health authorities to rapidly adjust coverage parameters or introduce new insurance products in response to policy changes.&#xD;&#xA;&#xD;&#xA;Example: A software module used to track the effective dates and renewal cycles for a subsidized health insurance plan for informal workers."/>

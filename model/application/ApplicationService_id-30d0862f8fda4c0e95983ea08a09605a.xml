@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Assignment and Follow-up Service"
+    id="id-30d0862f8fda4c0e95983ea08a09605a"
+    documentation="A Task Assignment and Follow-up Service is an operational management tool that assigns specific clinical or administrative tasks to healthcare team members and automatically tracks their completion status over time.&#xD;&#xA;&#xD;&#xA;Its purpose is to establish clear accountability across multidisciplinary teams and ensure that no critical step in a patient's care plan or transition pathway is delayed or forgotten.&#xD;&#xA;&#xD;&#xA;Example: The service automatically assigns a post-discharge medication reconciliation task to a clinical pharmacist and generates an automated follow-up reminder if the task remains unfulfilled 24 hours later."/>

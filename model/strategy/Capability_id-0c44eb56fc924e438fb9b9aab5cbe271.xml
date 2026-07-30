@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Operations"
+    id="id-0c44eb56fc924e438fb9b9aab5cbe271"
+    documentation="This capability encompasses the continuous monitoring, detection, and response to cybersecurity threats across the health financing infrastructure. It involves the day-to-day work of maintaining the resilience and availability of the national payment network.&#xD;&#xA;&#xD;&#xA;The goal is to ensure that health financing systems are always operational and that sensitive data is protected from breach or disruption. It provides the &quot;eyes and ears&quot; needed to defend the sector against evolving cyber threats.&#xD;&#xA;&#xD;&#xA;Example: A security team investigating and neutralizing a malware infection on a regional health finance server before it can spread."/>

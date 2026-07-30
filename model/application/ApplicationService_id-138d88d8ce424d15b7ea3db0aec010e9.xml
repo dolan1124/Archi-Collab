@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Payroll Services"
+    id="id-138d88d8ce424d15b7ea3db0aec010e9"
+    documentation="The end-to-end software functionality delivered over a network that automates the calculation, processing, and distribution of employee compensation. This software-driven service exposes payroll features to users and other applications without them needing to manage the underlying infrastructure.&#xD;&#xA;&#xD;&#xA;It provides a reliable, secure interface that automates the translation of timesheet data into bank deposits, reducing manual processing effort. This automated delivery ensures that payroll calculations are consistent, compliant, and completed on a strict schedule.&#xD;&#xA;&#xD;&#xA;Example: &quot;The cloud-hosted Payroll Calculation Service that ingests validated shift data, computes net pay with deductions, and triggers the direct deposit routine for the hospital's banking portal.&quot;"/>

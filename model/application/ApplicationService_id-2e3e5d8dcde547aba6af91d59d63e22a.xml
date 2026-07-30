@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Sharing Service"
+    id="id-2e3e5d8dcde547aba6af91d59d63e22a"
+    documentation="This service facilitates the structured exchange of clinical documents, images, care plans, and diagnostic reports among care team members. It ensures that shared information conforms to interoperability standards and is accessible to authorized recipients.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to enable seamless transfer of clinical information across providers, disciplines, and facilities without manual re-entry or format inconsistencies. It also supports continuity of care by ensuring complete and accurate information reaches the right team members.&#xD;&#xA;&#xD;&#xA;Example: A referring physician shares a patient's imaging results and referral notes with a receiving specialist through the platform, with all documents formatted and transmitted in a standards-compliant structure."/>

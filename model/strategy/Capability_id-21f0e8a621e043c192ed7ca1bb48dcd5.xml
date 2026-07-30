@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Sharing and Authorization"
+    id="id-21f0e8a621e043c192ed7ca1bb48dcd5"
+    documentation="This capability handles the technical processes of exchanging data between systems based on authorized requests and valid consent. It ensures that data flows securely and only to parties who have the legal right to see it.&#xD;&#xA;&#xD;&#xA;The purpose is to enable seamless interoperability while strictly enforcing access control policies. This allows for clinical data to follow the patient across different levels of care without compromising privacy.&#xD;&#xA;&#xD;&#xA;Example: An authorization server issuing temporary tokens to allow a lab system to push results to a patient’s PHR.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Base Engine"
+    id="id-7902b43e775944aeb048890217d16983"
+    documentation="A Knowledge Base Engine is a centralized, searchable repository software component that indexes, stores, and retrieves clinical guidelines, medical literature, institutional policies, and decision-support rules.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide immediate access to validated, up-to-date medical and administrative expertise, ensuring that care teams can quickly reference accurate information to make safe, evidence-based clinical decisions.&#xD;&#xA;&#xD;&#xA;Example: A clinician typing &quot;sepsis protocol&quot; into an electronic health record system uses this engine to instantly retrieve the latest regional guidelines on antibiotic administration timelines and dosage recommendations."/>

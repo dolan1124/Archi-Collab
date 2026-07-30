@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order / Prescription Validation Service"
+    id="id-18f4979de1a149eb8cea35c9795ed842"
+    documentation="This application service evaluates medication orders and clinical requests against safety rules, formularies, and prescribing standards. It validates prescriptions for allergies, contraindications, dosage limits, duplications, and potential interactions before processing.&#xD;&#xA;&#xD;&#xA;The purpose of this application service is to improve medication safety and reduces preventable prescribing and ordering errors. It also supports compliance with standardized clinical and pharmaceutical policies.&#xD;&#xA;&#xD;&#xA;Example: A prescribing system prevents submission of a medication order because the prescribed dosage exceeds the approved pediatric limit."/>

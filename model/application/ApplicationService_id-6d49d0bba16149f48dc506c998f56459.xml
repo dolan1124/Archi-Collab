@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Monitoring / Audit Service"
+    id="id-6d49d0bba16149f48dc506c998f56459"
+    documentation="This service continuously monitors system logs and network traffic for suspicious activity and policy violations. It provides real-time alerts and detailed audit logs for forensic analysis.&#xD;&#xA;&#xD;&#xA;The purpose is to detect security incidents as they happen and provide the data needed for a rapid response. It ensures that any attempt to breach patient privacy is captured and reported.&#xD;&#xA;&#xD;&#xA;Example: An automated alert triggered when a user tries to access 1,000 patient records in a single minute.&#xD;&#xA;"/>

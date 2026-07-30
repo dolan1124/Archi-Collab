@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract, Benefit, and Tariff Authoring &amp; Versioning"
+    id="id-ebe5ebd10fbd48ab81212ff1f7166053"
+    documentation="This service provides the tools to create and manage the digital versions of provider contracts, benefit packages, and price lists. It maintains an auditable history of all changes to the rules that govern payments within the system.&#xD;&#xA;&#xD;&#xA;The goal is to provide a single, authoritative source of truth for the rules that drive the claims adjudication process. It ensures that all stakeholders work with the same, up-to-date information, which significantly reduces disputes and errors.&#xD;&#xA;&#xD;&#xA;Example: A versioning service that ensures a hospital is billed using the 2026 tariff list rather than an outdated version."/>

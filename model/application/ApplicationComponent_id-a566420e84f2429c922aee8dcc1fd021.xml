@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PKI / Trust Infrastructure"
+    id="id-a566420e84f2429c922aee8dcc1fd021"
+    documentation="PKI or Trust Infrastructure is a system of digital certificates and cryptographic keys used to secure health transactions. It provides the technical framework for applying digital signatures to clinical documents and verifying their origin.&#xD;&#xA;&#xD;&#xA;The purpose is to establish trust in the authenticity and integrity of digital health records. It ensures that medical data has not been tampered with and is issued by a verified, authorized source.&#xD;&#xA;&#xD;&#xA;Example: A trust service that allows a doctor to &quot;digitally stamp&quot; an electronic prescription so a pharmacist can verify its legitimacy."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notification and Task Manager"
+    id="id-267e653313854e17aa910eef017d8446"
+    documentation="A Notification &amp; Task Manager is a workflow coordination tool that automatically routes time-sensitive alerts, clinical reminders, and actionable assignments to designated healthcare personnel based on real-time system events.&#xD;&#xA;&#xD;&#xA;Its purpose is to reduce clinical inertia and cognitive overload by ensuring that critical updates—such as urgent lab results or overdue patient checks—are prioritized and delivered to the right provider immediately.&#xD;&#xA;&#xD;&#xA;Example: The service instantly pushes a high-priority alert to a nurse's mobile device the moment a patient's lab results flag a critically low potassium level, automatically creating an urgent task to administer the correction."/>

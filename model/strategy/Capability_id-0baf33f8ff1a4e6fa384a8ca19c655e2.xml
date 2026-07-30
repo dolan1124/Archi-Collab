@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eligibility and Entitlement Determination"
+    id="id-0baf33f8ff1a4e6fa384a8ca19c655e2"
+    documentation="This capability involves the real-time verification of an individual's insurance status and the specific health benefits they are entitled to receive. It cross-references patient data with scheme rules to decide which services are covered at the point of care.&#xD;&#xA;&#xD;&#xA;The objective is to provide instant financial certainty for both patients and healthcare providers during clinical encounters. It ensures that the system correctly applies subsidies and prevents the unauthorized utilization of pooled resources.&#xD;&#xA;&#xD;&#xA;Example: A clinic system confirming that a pregnant patient is entitled to free prenatal vitamins under her current insurance plan."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Adapter"
+    id="id-0d5f3016c6d84a3eb6493b7fa34a1de3"
+    documentation="The payment adapter is a technical connector that bridges the gap between health information systems and banking or mobile money platforms. It handles the translation of internal payment requests into the specific formats required by external financial institutions.&#xD;&#xA;&#xD;&#xA;Its purpose is to facilitate the secure and automated transfer of funds from health schemes to providers or beneficiaries. It eliminates manual banking entries and speeds up the reimbursement cycle by enabling direct electronic settlements.&#xD;&#xA;&#xD;&#xA;Example: A middleware component that converts &#xD;&#xA;a hospital’s approved payment file into an ISO 20022 message for a central bank transfer."/>

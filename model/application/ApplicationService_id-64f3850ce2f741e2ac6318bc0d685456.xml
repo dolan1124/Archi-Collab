@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Training Activity Tracking Service"
+    id="id-64f3850ce2f741e2ac6318bc0d685456"
+    documentation="The self-contained software component within the enterprise application layer that records, monitors, and audits individual health worker interactions, progress percentages, and milestones within accredited educational courses and professional development modules.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to capture real-time learning data and participation logs, providing the secure operational evidence needed to feed downstream credentialing systems and compliance engines.&#xD;&#xA;&#xD;&#xA;Example: &quot;The Training Activity Tracking Service logged every time a resident completed a module in the interactive radiology simulator, ensuring their hours were accurately captured for board review.&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud, Risk Scoring, and Anomaly Detection"
+    id="id-cc8e28ab398f4bf3822cd9003703722f"
+    documentation="This service uses analytics to assign a risk score to every claim based on patterns of past behavior and clinical plausibility. It flags unusual activities, such as duplicate billing or service inflation, for proactive investigation by auditors.&#xD;&#xA;&#xD;&#xA;The purpose is to protect health funds from being lost to fraud by identifying high-risk transactions before they are paid. It preserves resources for actual patient care and discourages systemic abuse of the health insurance system.&#xD;&#xA;&#xD;&#xA;Example: A system flagging a clinic that bills for 100 patient visits on a day when the facility was officially closed."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provider Statements and Remittance Advice"
+    id="id-cac98c020ee3472fafb25c21baad5005"
+    documentation="This service generates digital reports for healthcare facilities explaining the details of their processed claims and subsequent payments. It provides a clear breakdown of which claims were paid, denied, or modified by the payer.&#xD;&#xA;&#xD;&#xA;The objective is to provide financial transparency and help providers manage their own cash flow and internal accounts. It reduces administrative inquiries by providing a clear and detailed explanation for every payment decision.&#xD;&#xA;&#xD;&#xA;Example: A monthly statement sent to a hospital manager detailing the status of 500 recently submitted insurance claims."/>

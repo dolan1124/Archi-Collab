@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client Identity Service"
+    id="id-d10451f599a54a81a39fec06beaf17ca"
+    documentation="This service provides the technical interface to identify, authenticate, and link individuals within the health system. It often bridges the gap between local health IDs and a national identity registry.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure that every clinical record is accurately associated with the correct physical person. This is foundational for patient safety and the creation of longitudinal medical histories.&#xD;&#xA;&#xD;&#xA;Example: A service that validates a patient’s fingerprint against the national ID database during hospital check-in.&#xD;&#xA;"/>

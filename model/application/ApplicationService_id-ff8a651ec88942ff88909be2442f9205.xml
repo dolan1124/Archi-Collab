@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient History Aggregation Service"
+    id="id-ff8a651ec88942ff88909be2442f9205"
+    documentation="A Patient History Aggregation Service is a data-consolidation system that retrieves, cleans, and merges a patient's historical medical records from multiple disparate sources—such as different clinics, labs, and hospitals—into a single, unified longitudinal health record.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide clinicians with a complete, chronological view of a patient’s medical history, eliminating clinical blind spots and preventing redundant testing or dangerous treatment conflicts.&#xD;&#xA;&#xD;&#xA;Example: When a new patient visits an urgent care clinic, this service automatically gathers their past diagnoses from a family practice, laboratory results from an external testing center, and recent imaging reports from a local hospital to present a single, cohesive timeline."/>

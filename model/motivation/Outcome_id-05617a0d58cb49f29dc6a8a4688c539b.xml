@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticated and Authorized Transactions"
+    id="id-05617a0d58cb49f29dc6a8a4688c539b"
+    documentation="This outcome ensures that every financial action in the health system is performed by a verified user with the legal right to do so. It utilizes digital signatures and multi-factor authentication for all sensitive operations such as budget approvals or payment authorizations.&#xD;&#xA;&#xD;&#xA;It provides the security foundation required to prevent unauthorized fund transfers and sophisticated administrative fraud. By verifying the identity and permissions of every actor, the system ensures high-level accountability for public funds.&#xD;&#xA;&#xD;&#xA;Example: A system requiring a fingerprint scan and a digital signature before a regional manager can approve a hospital's payment schedule."/>

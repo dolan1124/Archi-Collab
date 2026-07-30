@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expenditure Forecasting Algorithms / Tools"
+    id="id-11d3e321c9ec4f89842cb08920637a77"
+    documentation="An advanced application service that processes historical utilization trends, macroeconomic variables, and demographic shifts through predictive statistical and machine learning models to generate future healthcare spending projections.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to automate long-term financial modeling, allowing fiscal planners to run interactive &quot;what-if&quot; scenarios regarding policy changes, epidemic outbreaks, or drug price spikes, thereby ensuring the health system remains solvent years down the road.&#xD;&#xA;&#xD;&#xA;Example: The expenditure forecasting algorithms/tools service simulates the financial impact of expanding coverage for a new gene therapy; by analyzing current disease prevalence and drug pricing vectors, it projects that the expansion will cost the fund an additional $18 million in year three, enabling the treasury to adjust tax-subsidy allocations in advance."/>

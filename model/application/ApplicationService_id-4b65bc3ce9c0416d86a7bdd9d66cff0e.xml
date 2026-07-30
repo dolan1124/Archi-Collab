@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Flow Monitoring and Reconciliation"
+    id="id-4b65bc3ce9c0416d86a7bdd9d66cff0e"
+    documentation="This service tracks the movement of funds from payers to providers and matches them against the batch of approved claims. It verifies that every financial transfer reaches its intended destination and balances perfectly against the internal ledger.&#xD;&#xA;&#xD;&#xA;The goal is to ensure the integrity of the payment cycle and detect discrepancies in fund transfers immediately. It provides financial closure by ensuring that providers receive exactly what was authorized in the adjudication process.&#xD;&#xA;&#xD;&#xA;Example: An automated system that flags a bank transfer if it does not match the total of the approved claims batch for a specific hospital."/>

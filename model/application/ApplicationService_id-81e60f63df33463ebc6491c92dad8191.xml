@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance and Leakage Analysis"
+    id="id-81e60f63df33463ebc6491c92dad8191"
+    documentation="An advanced application service that continuously scans aggregated transaction records, payroll files, and health fund databases to flag deviations from policy rules, calculate underpayments, and pinpoint where financial resources are being lost.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to automate fiscal oversight by using specialized algorithms to cross-reference multiple data sources, allowing auditors to immediately catch non-compliant businesses and stop revenue leakage before it damages the health sector's budget.&#xD;&#xA;&#xD;&#xA;Example: The compliance and leakage analysis service automatically cross-checks an employer's declared health insurance contributions against their official corporate tax filings, instantly flagging a manufacturing company that underreported its headcount to evade $45,000 in mandatory health fees."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provider / Facility Registry Service"
+    id="id-bdb6fc646dda417e8973bb55400b9fae"
+    documentation="This service maintains a verified database of health workers, including their credentials, licenses, and roles. It provides an API for other systems to verify the identity of a clinician.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure that all clinical actions can be attributed to a verified professional. This is essential for accountability, patient safety, and the security of the health network.&#xD;&#xA;&#xD;&#xA;Example: A service that confirms a user is a licensed surgeon before they are allowed to upload a post-operative summary.&#xD;&#xA;"/>

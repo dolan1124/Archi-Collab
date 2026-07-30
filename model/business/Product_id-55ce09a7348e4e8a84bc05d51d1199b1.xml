@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrated Shared Care Plan (SCP)"
+    id="id-55ce09a7348e4e8a84bc05d51d1199b1"
+    documentation="Integrated Shared Care Plan (SCP):&#xD;&#xA;A dynamic, longitudinal care plan accessible and updatable by all authorized providers.&#xD;&#xA;Includes problems, goals, interventions, responsibilities, progress, and patient preferences.&#xD;&#xA;Patient-facing view with personalized instructions and self-management support.&#xD;&#xA;Population analytics product → aggregated data for care coordination KPIs (e.g., readmission reduction, continuity index)."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Context-Aware Communication Service"
+    id="id-9223353515404717babcdc113ed42c8d"
+    documentation="This service links all communications to relevant clinical objects such as patient records, encounters, care plans, or assigned tasks. It ensures that messages and interactions are organized and retrievable within the appropriate clinical context.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to prevent miscommunication caused by missing or unclear context and to ensure that all exchanges are meaningful and actionable. It also reduces the time providers spend searching for background information when receiving a message.&#xD;&#xA;&#xD;&#xA;Example: A physician receives a message about a medication concern that is automatically linked to the patient's current prescription list and recent lab results, allowing immediate review without navigating separate systems."/>

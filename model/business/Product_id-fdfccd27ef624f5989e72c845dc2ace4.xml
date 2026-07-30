@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard Terminology Services"
+    id="id-fdfccd27ef624f5989e72c845dc2ace4"
+    documentation="This service provides a centralized source for standardized clinical codes and vocabularies. It supports the translation and mapping between different medical coding systems.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure that clinical data retains its meaning as it moves between different healthcare systems. This is the technical enabler for semantic interoperability and meaningful analytics.&#xD;&#xA;&#xD;&#xA;Example: A service that tells a reporting system that the local code &quot;C-19&quot; should be mapped to the ICD-10 code &quot;U07.1&quot;.&#xD;&#xA;"/>

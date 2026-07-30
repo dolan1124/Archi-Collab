@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit and Compliance Service"
+    id="id-0052c2b9d6474579a30220a3a629be49"
+    documentation="This application service records healthcare activities, quality processes, and regulatory compliance information for monitoring and governance purposes. It supports audits, inspections, and verification of adherence to healthcare standards and policies.&#xD;&#xA;&#xD;&#xA;The purpose is to strengthen accountability, regulatory compliance, and healthcare governance. It also supports accreditation and quality assurance processes.&#xD;&#xA;&#xD;&#xA;Example: Healthcare auditors review digital records to verify compliance with national patient safety standards."/>

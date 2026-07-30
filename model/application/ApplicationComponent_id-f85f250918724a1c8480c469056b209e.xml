@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Finance Information System"
+    id="id-f85f250918724a1c8480c469056b209e"
+    documentation="This component is the comprehensive software suite used to manage the health sector's financial operations, including budgeting and resource tracking. It acts as the primary financial system of record for the Ministry of Health or a national insurance agency.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide a unified platform for managing health funds and ensuring financial accountability across the entire health system. It supports the execution of the national health budget and provides the data needed for high-level fiscal oversight.&#xD;&#xA;&#xD;&#xA;Example: A national government ERP system customized for health sector budget planning and execution."/>

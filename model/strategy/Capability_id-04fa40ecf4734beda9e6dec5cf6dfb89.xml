@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contracting and Contract Execution Monitoring"
+    id="id-04fa40ecf4734beda9e6dec5cf6dfb89"
+    documentation="This capability manages the lifecycle of legal and financial agreements between payers and healthcare providers. It defines the service-level agreements and monitors whether providers are meeting their contracted obligations.&#xD;&#xA;&#xD;&#xA;The objective is to ensure that the health system buys the right services at the right quality and price. It provides the accountability mechanism needed to verify that providers are delivering the value promised in their contracts.&#xD;&#xA;&#xD;&#xA;Example: An automated system that tracks whether a hospital is meeting its contracted 30-minute target for emergency triage."/>

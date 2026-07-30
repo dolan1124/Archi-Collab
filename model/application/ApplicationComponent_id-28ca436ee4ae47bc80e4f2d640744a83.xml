@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medication Reconciliation Module"
+    id="id-28ca436ee4ae47bc80e4f2d640744a83"
+    documentation="A Medication Reconciliation Module is a specialized functional component embedded within an electronic health record system that provides the user interface and logic engine required to compare, cross-reference, and update a patient's active medication lists.&#xD;&#xA;&#xD;&#xA;Its purpose is to give frontline clinicians a clear, side-by-side visual workspace to seamlessly merge pre-admission medications with new clinical orders, drastically reducing manual transcription mistakes during data entry.&#xD;&#xA;&#xD;&#xA;Example: An emergency department nurse opens this module during intake to view a patient's pharmacy-sourced medication history right next to the active hospital chart, clicking to instantly import the correct home dosages with a single action."/>

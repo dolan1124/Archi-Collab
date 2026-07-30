@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IAM Service"
+    id="id-4bdb0880d6924a46b6b4be5ce90656dc"
+    documentation="The Identity and Access Management (IAM) service manages the digital identities and permissions of every user and system in the health network. It controls &quot;who has access to what&quot; based on verified roles and legal authorizations.&#xD;&#xA;&#xD;&#xA;Its purpose is to ensure the security and privacy of health funds by enforcing strict access control policies. It provides the governance framework necessary to manage the identities of thousands of users across a distributed national system.&#xD;&#xA;&#xD;&#xA;Example: A service that grants a &quot;Claims Reviewer&quot; access to see clinical summaries but blocks them from seeing the hospital’s bank account details."/>

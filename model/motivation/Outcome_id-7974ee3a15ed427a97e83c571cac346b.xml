@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Population-Level Insights into Communication Efficiency and Bottlenecks"
+    id="id-7974ee3a15ed427a97e83c571cac346b"
+    documentation="This outcome aggregates anonymized data from care team communication patterns to generate insights into where delays, gaps, or overloads occur across facilities, departments, or care pathways. &#xD;&#xA;&#xD;&#xA;The purpose of this outcome is to enable evidence-based decisions about workforce, workflow, and technology investments at a system level. It also supports facility accountability by making communication performance measurable.&#xD;&#xA;&#xD;&#xA;Example: A regional health authority analyzes communication data across ten district hospitals and finds that handover delays between shifts consistently occur in facilities without structured task delegation tools. This finding informs a targeted rollout of the task management module across those sites."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eligibility Verification and Prior Authorization"
+    id="id-ee10c177e89b459f8879559cccb3d6ae"
+    documentation="This service provides real-time confirmation of a patient's insurance status and evaluates requests for high-cost services before they are provided. It checks if a specific procedure is covered under the patient's plan and requires a specific clinical approval.&#xD;&#xA;&#xD;&#xA;The objective is to provide financial certainty to healthcare providers and prevent patients from incurring unexpected medical costs. It acts as a cost-control mechanism by ensuring that expensive interventions are medically necessary and appropriately covered.&#xD;&#xA;&#xD;&#xA;Example: A hospital system sending an automated request to an insurer to confirm that an MRI scan is authorized for a specific patient."/>

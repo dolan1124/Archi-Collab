@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure Trust, Security, and Privacy in all Transactions"
+    id="id-4b19a6ae6e754c0ab3dfca7e8ae397a1"
+    documentation="This sub-goal targets the implementation of robust cybersecurity, privacy safeguards, and cryptographic trust services within the digital health ecosystem. It ensures that every data exchange is protected against unauthorized access and tampering.&#xD;&#xA;&#xD;&#xA;The purpose is to mitigate cybersecurity threats and ensure regulatory compliance with international privacy standards. It aims to foster a secure environment where stakeholders feel confident exchanging sensitive clinical data.&#xD;&#xA;&#xD;&#xA;Example: Deploying a Public Key Infrastructure (PKI) to digitally sign every health record exchange.&#xD;&#xA;"/>

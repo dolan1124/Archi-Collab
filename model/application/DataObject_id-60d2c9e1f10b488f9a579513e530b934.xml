@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility Registry"
+    id="id-60d2c9e1f10b488f9a579513e530b934"
+    documentation="The Facility Registry metadata component maintains structured information about health facilities, such as ownership, location, operational status, and identifiers. It provides the metadata necessary to authenticate a facility’s role in the ecosystem.&#xD;&#xA;&#xD;&#xA;Its purpose is to supply the context needed for data provenance and verification of health services. It ensures that every clinical event is attributed to a specific, verified healthcare delivery site.&#xD;&#xA;&#xD;&#xA;Example: Metadata describing a facility as a &quot;Level 3 General Hospital&quot; with a specific geographic coordinate and license number."/>

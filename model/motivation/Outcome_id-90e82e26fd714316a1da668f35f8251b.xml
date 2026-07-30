@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring of claims expenditure against pooled resources"
+    id="id-90e82e26fd714316a1da668f35f8251b"
+    documentation="This involves the continuous comparison of the total cost of all processed claims against the actual resources available in the insurance pool. It acts as a real-time check on the rate of fund consumption compared to the original budget.&#xD;&#xA;&#xD;&#xA;The objective is to identify spending trends early and prevent the health fund from becoming over-leveraged or insolvent. It provides the data needed to adjust purchasing strategies or implement cost-containment measures before financial issues become critical.&#xD;&#xA;&#xD;&#xA;Example: A real-time alert showing that claims for a specific high-cost drug are rising significantly faster than the budget can sustain."/>

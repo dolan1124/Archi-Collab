@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Longitudinal Care Coordination Management"
+    id="id-c1acd04b396d43b88998df0ef23e1d03"
+    documentation="Longitudinal Care Coordination Management:&#xD;&#xA;Create and maintain continuous care pathways for chronic, preventive, and complex conditions.&#xD;&#xA;Support multi-disciplinary care teams with defined roles over time.&#xD;&#xA;Enable task-sharing and delegation (e.g., between physicians, nurses, community workers).&#xD;&#xA;Integrate decision support for guideline-based long-term management.&#xD;&#xA;Maintain a longitudinal health record linked to patient identity (MPI).&#xD;&#xA;Facilitate alerts for care gaps, preventive screenings, and follow-ups."/>

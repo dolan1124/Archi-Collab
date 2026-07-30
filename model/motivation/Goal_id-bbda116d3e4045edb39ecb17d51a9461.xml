@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchasing (including contracting, provider payments, claims management, benefits specification): Ensure affordable, efficient purchasing with timely payments, cost control, transparency"
+    id="id-bbda116d3e4045edb39ecb17d51a9461"
+    documentation="Purchasing is the active process of buying health services through contracting with providers, managing clinical claims, and specifying benefit packages. It encompasses the technical workflows used to transfer pooled funds to healthcare facilities for services rendered.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure affordable and efficient healthcare delivery with timely payments and strict cost control measures. It promotes transparency in financial transactions and encourages providers to maintain high standards of clinical performance.&#xD;&#xA;&#xD;&#xA;Example: An automated claims exchange platform that verifies medical services against contract terms before authorizing reimbursement to a hospital."/>

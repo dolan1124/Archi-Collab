@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminology Service"
+    id="id-e23a136ac7904c02a15f46010f655099"
+    documentation="The dedicated software component within the hospital's architecture that stores, manages, and translates standardized health and administrative vocabularies. It acts as a central repository that maps different codes, terms, and definitions across various internal and external systems to ensure everyone is speaking the same digital language.&#xD;&#xA;&#xD;&#xA;It eliminates data confusion and errors caused by different departments using inconsistent naming conventions for jobs, shifts, or medical roles. This precise translation ensures that personnel roles are classified correctly, which directly leads to accurate shift-differential calculations and compliant payroll processing.&#xD;&#xA;&#xD;&#xA;Example: &quot;The Enterprise Terminology Service module that automatically maps internal nursing department codes to standardized national health workforce registry definitions to ensure accurate role-based pay.&quot;"/>

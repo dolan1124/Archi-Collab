@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Management Information Service"
+    id="id-2d44537870b94265a50ed54ba25e4de1"
+    documentation="A health management information service collects, manages, and analyzes healthcare operational and clinical data. It supports reporting, monitoring, and healthcare program management activities.&#xD;&#xA;&#xD;&#xA;The purpose of this application component is to enable evidence-based planning and decision-making within healthcare organizations and government agencies. It also provides reliable information for monitoring health outcomes and system performance.&#xD;&#xA;&#xD;&#xA;Example: A national dashboard monitors immunization coverage and disease incidence across multiple regions."/>

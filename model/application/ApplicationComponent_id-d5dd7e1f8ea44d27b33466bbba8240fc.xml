@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit and Compliance Engine"
+    id="id-d5dd7e1f8ea44d27b33466bbba8240fc"
+    documentation="The Audit &amp; Compliance Engine is a component that records, stores, and evaluates all access requests and system activities within the TPHR network. It maintains a permanent, immutable log of every transaction for regulatory and forensic purposes.&#xD;&#xA;&#xD;&#xA;Its purpose is to ensure accountability and monitor the ecosystem for compliance with data protection laws. It allows regulators to detect and investigate potential privacy breaches or misuse of health data.&#xD;&#xA;&#xD;&#xA;Example: An automated engine that flags an alert if a provider attempts to access records for a patient they do not have an active clinical relationship with."/>

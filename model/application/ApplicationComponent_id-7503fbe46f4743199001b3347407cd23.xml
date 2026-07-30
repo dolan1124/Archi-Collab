@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client Registry"
+    id="id-7503fbe46f4743199001b3347407cd23"
+    documentation="The Client Registry is an application component that acts as a Master Patient Index and Identity Provider for the health sector. It manages unique identifiers and resolves identity conflicts to ensure each person is uniquely represented.&#xD;&#xA;&#xD;&#xA;Its purpose is to uniquely identify and authenticate individuals across the entire healthcare ecosystem. It provides a &quot;single source of truth&quot; for patient identity, which is foundational for linking disparate medical records.&#xD;&#xA;&#xD;&#xA;Example: A system that assigns a unique Health ID to a citizen and links it to their national biometric identification."/>

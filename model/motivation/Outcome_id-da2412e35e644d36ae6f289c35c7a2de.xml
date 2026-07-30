@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High Match-rate of Payments to Rendered services"
+    id="id-da2412e35e644d36ae6f289c35c7a2de"
+    documentation="This outcome is achieved when the majority of financial disbursements are accurately and automatically linked to verified clinical events. It uses cross-system validation to prove that every unit of currency paid corresponds to a specific, documented medical intervention.&#xD;&#xA;&#xD;&#xA;It protects the integrity of health funds by ensuring that payments are not made for phantom services or unauthorized procedures. This high level of precision reduces financial leakage and supports the transition toward value-based purchasing models.&#xD;&#xA;&#xD;&#xA;Example: A reconciliation report showing that 99% of all insurance payments match a corresponding verified encounter in the Shared Health Record."/>

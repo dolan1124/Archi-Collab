@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Management and Data Protection Infrastructure"
+    id="id-f49ca46488854076b5e481f93de34601"
+    documentation="Automated process of capturing, tracking, and honoring a patient's preferences regarding how their Protected Health Information (PHI) and Personally Identifiable Information (PII) is handled.&#xD;&#xA;&#xD;&#xA;Example: Patients are classified in system databases according to their preference on the handling of their information; each classification having a set of business rules encoded to handle data accordingly&#xD;&#xA;"/>

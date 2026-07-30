@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback and Engagement Analytics Service"
+    id="id-bdec6e505acf4693b4f6be9a4a338436"
+    documentation="This service tracks patient and family engagement patterns across the platform, including portal usage, survey completion, message response rates, and satisfaction scores. It generates insights that support quality improvement and help identify gaps in participation.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to make patient engagement measurable and actionable, enabling health system managers to identify where engagement is low and intervene with targeted improvements.&#xD;&#xA;&#xD;&#xA;Example: A health facility manager reviews an engagement dashboard and finds that elderly patients have significantly lower portal login rates than other groups. This prompts a targeted digital literacy support initiative for that population."/>

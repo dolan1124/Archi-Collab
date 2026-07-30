@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automated Data Collection Service"
+    id="id-86ea47c9ec2141bba9b72c11a0196042"
+    documentation="This application service gathers quality-related data from healthcare applications, devices, and operational systems with minimal manual intervention. It supports real-time and scheduled collection of clinical and operational performance data.&#xD;&#xA;&#xD;&#xA;The purpose is to improve the accuracy, timeliness, and efficiency of quality data collection processes. It also reduces administrative burden and manual reporting errors.&#xD;&#xA;&#xD;&#xA;Example: A hospital quality management system automatically extracts patient safety indicators from electronic medical records each day."/>

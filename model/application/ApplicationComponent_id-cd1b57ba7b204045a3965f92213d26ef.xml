@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Computable Guideline Repository"
+    id="id-cd1b57ba7b204045a3965f92213d26ef"
+    documentation="A computable guideline repository stores machine-readable clinical guidelines that digital systems can automatically interpret and execute. It supports the automation of evidence-based clinical recommendations and workflows.&#xD;&#xA;&#xD;&#xA;The purpose of this repository is to enable healthcare systems to consistently apply standardized clinical guidance. It also reduces manual interpretation errors and supports scalable automation.&#xD;&#xA;&#xD;&#xA;Example: A computable diabetes management guideline automatically recommends HbA1c monitoring schedules for eligible patients."/>

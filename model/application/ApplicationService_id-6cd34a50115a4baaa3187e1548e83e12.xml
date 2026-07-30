@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Assignment abd Workflow Service"
+    id="id-6cd34a50115a4baaa3187e1548e83e12"
+    documentation="A Task Assignment &amp; Workflow Service is an orchestration system that automatically generates, prioritizes, and routes specific clinical and administrative tasks to designated healthcare staff based on structured workflow rules and clinical events.&#xD;&#xA;&#xD;&#xA;Its purpose is to automate and standardize complex, multi-step healthcare processes, ensuring that the correct responsibilities are handed off to the right team members at the precise moment they are needed.&#xD;&#xA;&#xD;&#xA;Example: Upon a patient’s admission for elective surgery, this service automatically assigns a pre-operative checklist to the nursing staff, schedules a medication review for the clinical pharmacist, and triggers a room-prep task for the environmental services team."/>

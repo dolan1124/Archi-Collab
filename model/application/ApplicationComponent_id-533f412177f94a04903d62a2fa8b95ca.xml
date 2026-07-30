@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="National Disease Surveillance Platform (NDSP)"
+    id="id-533f412177f94a04903d62a2fa8b95ca"
+    documentation="Application that covers all surveillance components; from the frontline healthcare facilities and laboratory networks to electronic reporting systems and public health authorities&#xD;&#xA;&#xD;&#xA;Example: Civil Registration and Vital Statistics ensures accurate recording of birth and death events for mortality surveillance&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Profile Management Service"
+    id="id-8481f5d95240477e9fb462fdab759878"
+    documentation="The self-contained software component within the enterprise application layer that manages the creation, storage, and secure retrieval of individual health worker profiles, demographic details, and employment histories.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to provide a single, standardized interface for applications to securely view or update personal and professional practitioner data while maintaining strict access controls and record history tracking.&#xD;&#xA;&#xD;&#xA;Example: &quot;The Profile Management Service allowed an administrative assistant to instantly update a physician's primary clinic address and contact information across the entire regional hospital network.&quot;"/>

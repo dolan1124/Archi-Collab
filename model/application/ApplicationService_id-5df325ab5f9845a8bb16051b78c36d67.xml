@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication and Authorization"
+    id="id-5df325ab5f9845a8bb16051b78c36d67"
+    documentation="This service manages the digital identities of all users and verifies their specific permissions before granting access to health financing applications. It ensures that only authorized personnel can perform sensitive financial actions like budget approval.&#xD;&#xA;&#xD;&#xA;The intent is to provide the primary security defense for the national health financing infrastructure. It protects the integrity of the health budget by strictly controlling who can view, enter, or approve financial data.&#xD;&#xA;&#xD;&#xA;Example: A login service that verifies a user's role as a &quot;Finance Manager&quot; before allowing them to authorize a payment schedule."/>

@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seamless Access to Patient Information Across Care Settings"
+    id="id-41131a92e1534b77820e0eb5c1e53b92"
+    documentation="The &quot;Seamless Access to Patient Information Across Care Settings&quot; goal is an interoperability objective focused on ensuring that authorized healthcare providers can instantly retrieve and view a patient's complete, up-to-date medical history regardless of where the data was originally recorded.&#xD;&#xA;&#xD;&#xA;Its purpose is to eliminate information blind spots during clinical encounters, enabling faster, safer decision-making by placing essential patient data at the fingertips of care teams in real time.&#xD;&#xA;&#xD;&#xA;Example: A regional health network achieves this goal by implementing a unified exchange protocol that allows a treating emergency room physician to instantly review a visiting patient’s allergy list and active prescriptions documented by their out-of-state primary care doctor."/>

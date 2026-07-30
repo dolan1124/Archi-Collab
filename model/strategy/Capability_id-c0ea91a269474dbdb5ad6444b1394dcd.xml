@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamic Consent Management"
+    id="id-c0ea91a269474dbdb5ad6444b1394dcd"
+    documentation="This capability allows for the granular and real-time management of patient permissions for data sharing. It enables patients to grant, revoke, or modify access rights for different providers and purposes.&#xD;&#xA;&#xD;&#xA;The purpose is to place the patient in control of their data and ensure that sharing is always based on explicit, informed consent. This is a key requirement for building trust and complying with privacy laws.&#xD;&#xA;&#xD;&#xA;Example: A &quot;consent dashboard&quot; where a patient can give a specialist access to their history for only a 24-hour window.&#xD;&#xA;"/>

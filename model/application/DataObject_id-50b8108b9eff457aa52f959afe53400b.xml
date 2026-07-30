@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client Registry"
+    id="id-50b8108b9eff457aa52f959afe53400b"
+    documentation="The Client Registry metadata component manages the descriptive data about patients, including unique identifiers and relationships between records. It stores the attributes needed to link merged or linked identities across disparate health sources.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide a verifiable patient identity that enables consistent tracking of a person's health journey. It ensures that metadata is standardized across the country to prevent identity fragmentation.&#xD;&#xA;&#xD;&#xA;Example: A metadata record that links a patient’s passport number and local health card ID to a single master patient profile."/>

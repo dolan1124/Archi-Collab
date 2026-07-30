@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure Messaging Service"
+    id="id-3f21d6ec56b14ca184ce62d38112dab0"
+    documentation="This service provides encrypted, role-based messaging between care team members within a clinical environment. It ensures that patient-related communications are delivered securely and linked to the appropriate clinical context.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to replace informal or unsecured communication channels with a reliable, auditable messaging infrastructure. It also ensures that sensitive patient information is protected throughout all exchanges.&#xD;&#xA;&#xD;&#xA;Example: A nurse sends a secure message to an on-call physician regarding a change in a patient's condition, with the message automatically tagged to the patient's active encounter."/>

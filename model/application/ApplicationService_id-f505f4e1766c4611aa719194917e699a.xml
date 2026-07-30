@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics and Risk Assessment Service"
+    id="id-f505f4e1766c4611aa719194917e699a"
+    documentation="An Analytics and Risk Assessment Service is a predictive public health intelligence platform that applies statistical models, machine learning, and epidemiological data to evaluate population health threats.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to transform raw health data into actionable insights, allowing authorities to forecast disease trends, identify vulnerable demographics, and proactively allocate medical resources.&#xD;&#xA;&#xD;&#xA;Example: Analyzing real-time emergency room admissions, local weather patterns, and regional vaccination rates, the service can flag a high risk of an impending influenza surge in specific neighborhoods, prompting targeted public health warnings"/>

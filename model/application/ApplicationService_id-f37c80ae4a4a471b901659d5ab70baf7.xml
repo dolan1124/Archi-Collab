@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Aggregation and Consolidation"
+    id="id-f37c80ae4a4a471b901659d5ab70baf7"
+    documentation="An advanced application service that connects to disparate databases across banks, clinics, and government offices to automatically fetch, standardize, and merge fragmented financial records into a single, unified data store.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to programmaticly dismantle data silos by continuously resolving formatting mismatches, removing duplicate entries, and providing other core applications with a reliable, real-time stream of consolidated health and revenue data.&#xD;&#xA;&#xD;&#xA;Example: The data aggregation and consolidation service runs a nightly background routine that pulls tax payment files from commercial bank APIs, scrubs out formatting differences, and merges them into the central health fund database so the billing app can accurately update millions of user balances by morning."/>

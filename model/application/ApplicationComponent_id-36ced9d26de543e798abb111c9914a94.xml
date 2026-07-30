@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Finance Information System / Data Warehouse and Analytics Platform"
+    id="id-36ced9d26de543e798abb111c9914a94"
+    documentation="Serves as the central repository and analytical engine for all financial data across the health sector, storing structured historical records on revenue collections, clinical expenditures, and provider payments.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to transform massive volumes of raw financial and operational data into actionable insights, enabling long-term budgetary planning, cost-containment strategies, and evidence-based health financing policies.&#xD;&#xA;&#xD;&#xA;Example: The health finance information system and data warehouse pools a decade's worth of hospital billing data, tax revenue streams, and demographic records into one platform, allowing analysts to run complex queries that project exactly how an aging population will impact national healthcare expenditures over the next five years."/>

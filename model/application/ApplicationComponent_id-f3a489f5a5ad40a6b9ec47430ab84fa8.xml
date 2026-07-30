@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eligibility Algorithm"
+    id="id-f3a489f5a5ad40a6b9ec47430ab84fa8"
+    documentation="The eligibility algorithm is a set of logical rules used to instantly determine if a person is covered for a specific medical service. it analyzes patient data, policy rules, and current fund status to provide a &quot;Yes/No&quot; decision at the point of care.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide real-time financial certainty for both patients and healthcare providers. It ensures that clinical services are only provided to eligible members and that the correct co-pays or subsidies are applied.&#xD;&#xA;&#xD;&#xA;Example: A logic engine that confirms a patient is currently active in the national fund and eligible for free maternity care."/>

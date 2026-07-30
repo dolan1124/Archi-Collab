@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient Education Service"
+    id="id-b437b489242d416d893fa5fe307ff7d9"
+    documentation="This service delivers personalized, culturally adapted educational content to patients and families in multiple formats including text, video, and audio. It tailors content to the patient's condition, care plan, language, and literacy level.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to improve health literacy and self-management by ensuring patients and families have the knowledge they need to understand their condition and follow their care plan. &#xD;&#xA;&#xD;&#xA;Example: Following a diabetes diagnosis, a patient receives a series of short educational videos in their native language covering diet, medication adherence, and blood sugar monitoring, automatically triggered by their care plan.&#xD;&#xA;"/>

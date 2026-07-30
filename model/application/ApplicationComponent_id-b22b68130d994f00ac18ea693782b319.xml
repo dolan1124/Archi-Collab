@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provider Workflow Integration Component"
+    id="id-b22b68130d994f00ac18ea693782b319"
+    documentation="A provider workflow integration component embeds clinical decision support recommendations directly into healthcare provider workflows and digital interfaces. It delivers guidance at appropriate points during patient care activities.&#xD;&#xA;&#xD;&#xA;The purpose of this application component is to improve the usability and adoption of clinical decision support systems. It also minimizes workflow disruption and increases operational efficiency.&#xD;&#xA;&#xD;&#xA;Example: Treatment recommendations automatically appear while physicians review patient charts in the electronic medical record system."/>

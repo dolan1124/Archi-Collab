@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provider Onboarding and Credentialing"
+    id="id-21ad976dddce4f05afda8b514278a497"
+    documentation="This service handles the digital registration of healthcare providers and the verification of their professional licenses and facility accreditations. It manages the lifecycle of a provider's eligibility to participate in the national health network.&#xD;&#xA;&#xD;&#xA;The objective is to ensure that only legitimate and qualified healthcare facilities and professionals are allowed to provide care and submit claims. It builds the foundational trust required for a secure and accountable health information exchange.&#xD;&#xA;&#xD;&#xA;Example: A service that automatically cross-checks a new clinic’s license with the national health facility registry during its enrollment."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Benchmarking and Comparison Module"
+    id="id-ff35a870ae604a488cba65a4d37483fa"
+    documentation="This application component compares healthcare performance indicators across providers, facilities, regions, and national standards. It identifies performance gaps, trends, and areas requiring improvement.&#xD;&#xA;&#xD;&#xA;The purpose is to support comparative analysis and encourages continuous quality improvement through peer benchmarking. It also promotes transparency and evidence-based performance management.&#xD;&#xA;&#xD;&#xA;Example: Regional hospitals compare maternal mortality rates against national averages and peer institutions."/>

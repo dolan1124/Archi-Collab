@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Record Management Service"
+    id="id-c67a1644ecd14ec3bfa987f80db620bd"
+    documentation="This service provides the core functionality for creating, updating, and querying longitudinal patient records. It supports the PHR apps, clinical portals, and third-party APIs that interact with health data.&#xD;&#xA;&#xD;&#xA;The purpose is to provide a standardized way to manage clinical data throughout its lifecycle. It ensures that health information is stored in a structured format that supports both care and analytics.&#xD;&#xA;&#xD;&#xA;Example: A FHIR-based service that allows a mobile app to retrieve a list of a patient’s active medications.&#xD;&#xA;"/>

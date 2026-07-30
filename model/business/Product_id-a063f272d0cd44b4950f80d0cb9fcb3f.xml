@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Management Dashboard"
+    id="id-a063f272d0cd44b4950f80d0cb9fcb3f"
+    documentation="This product is a user-facing interface that allows patients to manage their data sharing preferences and review who has accessed their records. It provides a transparent view of the consent lifecycle.&#xD;&#xA;&#xD;&#xA;The purpose is to give patients tangible control over their privacy and ensure they are informed about their data usage. It is a key tool for driving patient engagement and agency in the digital health system.&#xD;&#xA;&#xD;&#xA;Example: A web-based &quot;Privacy Manager&quot; where patients can revoke a specific hospital’s access to their past prescriptions.&#xD;&#xA;"/>

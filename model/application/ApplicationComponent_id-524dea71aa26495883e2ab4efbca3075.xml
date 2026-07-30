@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Management and Training Tracking Systems"
+    id="id-524dea71aa26495883e2ab4efbca3075"
+    documentation="The foundational software applications and platform infrastructure used to host, deliver, administer, and comprehensively document formal educational courses, certifications, and continuing professional development programs for the healthcare workforce.&#xD;&#xA;&#xD;&#xA;The purpose of these systems is to centralize the delivery of digital and blended learning content, automate the enrollment and scheduling of mandatory training, and maintain a permanent, auditable ledger of all training completions across the health system.&#xD;&#xA;&#xD;&#xA;Example: &quot;The migration to enterprise Learning Management &amp; Training Tracking Systems allowed the Ministry of Health to deploy an updated infectious disease protocol to 50,000 distributed health workers simultaneously and track their completion rates within a single dashboard.&quot;"/>

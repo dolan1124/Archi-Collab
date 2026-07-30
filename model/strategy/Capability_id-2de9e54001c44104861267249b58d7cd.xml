@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.0 Adverse Event Reporting and Safety Signals"
+    id="id-2de9e54001c44104861267249b58d7cd"
+    documentation="Capability designed to securely capture, log, and classify any untoward, undesirable medical occurrence in a patient after they have received a medical product, regardless of whether the product is suspected of causing the event&#xD;&#xA;&#xD;&#xA;Example: Thorough tracking of patient visit records, communication platform to allow patients to contact health-care providers in the case of adverse events&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Payment Calculation, Disbursement, and Reconciliation"
+    id="id-41319b730b804a8391b887e17d826638"
+    documentation="This service calculates the final amount to be paid after accounting for deductibles and initiates the electronic transfer of funds. It matches the final bank records against the approved claims to ensure the financial ledger is perfectly balanced.&#xD;&#xA;&#xD;&#xA;The intent is to ensure the absolute financial accuracy and efficiency of the final fund disbursement process. It provides financial closure by verifying that every authorized payment successfully reached the provider’s bank account.&#xD;&#xA;&#xD;&#xA;Example: A service that subtracts a 10% tax withholding from an approved claim and then initiates a bank transfer for the balance."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Signature and Verification Service"
+    id="id-a3295f60c81943839a56e1ddce9dde4b"
+    documentation="This specific service focuses on applying and checking digital signatures on clinical and financial records. It ensures that the &quot;seal&quot; on a record can be verified by any participant in the network.&#xD;&#xA;&#xD;&#xA;The purpose is to provide an immutable proof of origin and integrity for every data exchange. This is critical for medical-legal documentation and preventing the falsification of health records.&#xD;&#xA;&#xD;&#xA;Example: A physician using their digital ID to &quot;sign&quot; a patient’s discharge summary, making it a legally binding record.&#xD;&#xA;"/>

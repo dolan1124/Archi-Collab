@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminology Service"
+    id="id-56d4bc8ab1574865a10de2c0d8ba8947"
+    documentation="The self-contained software component within the enterprise application layer that manages, maps, and distributes standardized medical vocabularies, clinical coding systems, and health worker competency taxonomies.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to ensure that disparate digital systems can accurately translate and understand clinical data and professional classifications by resolving semantic differences through a single, authoritative reference point.&#xD;&#xA;&#xD;&#xA;Example: &quot;The Terminology Service automatically translated a legacy regional hospital's internal staffing codes into the standardized national health worker catalog format during a system-wide database upgrade.&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity and Access Management"
+    id="id-e56ec961147d4f64929f7ad5cf7292d0"
+    documentation="This capability manages the digital identities and permissions of all people and systems that interact with health financing tools. It ensures that every action in the system is performed by a verified user with the appropriate legal authority.&#xD;&#xA;&#xD;&#xA;The goal is to protect the security and integrity of health funds by preventing unauthorized access to sensitive financial operations. It provides the high-level governance needed to manage the &quot;who, what, and when&quot; of system usage.&#xD;&#xA;&#xD;&#xA;Example: Restricting the ability to approve multi-million dollar hospital payment schedules to only the most senior financial officials."/>

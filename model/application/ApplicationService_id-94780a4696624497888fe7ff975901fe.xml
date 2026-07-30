@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Team Collaboration Service"
+    id="id-94780a4696624497888fe7ff975901fe"
+    documentation="A Care Team Collaboration Service is a secure communication and shared workspace platform that enables multidisciplinary healthcare providers to chat, share real-time clinical updates, and collectively coordinate patient care plans.&#xD;&#xA;&#xD;&#xA;Its purpose is to break down clinical communication silos and facilitate immediate team-based decision-making, ensuring that every specialist, nurse, and therapist involved in a patient's care is aligned on the active treatment strategy.&#xD;&#xA;&#xD;&#xA;Example: A patient's care team—consisting of an attending physician, a physical therapist, and a clinical pharmacist—uses this service to co-design and approve a personalized post-stroke rehabilitation plan in a unified, secure messaging thread."/>

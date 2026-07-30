@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Verification Service"
+    id="id-17660d63e614413d8ea5e4076ea32a07"
+    documentation="This service handles the management of digital certificates, keys, and the verification of cryptographic signatures. It provides the technical proof required for trust in digital transactions.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure that any document or exchange in the system is authentic and has not been tampered with. This supports non-repudiation and legal validity of digital health records.&#xD;&#xA;&#xD;&#xA;Example: A service that verifies the digital signature on a lab result before it is automatically added to a patient’s PHR.&#xD;&#xA;"/>

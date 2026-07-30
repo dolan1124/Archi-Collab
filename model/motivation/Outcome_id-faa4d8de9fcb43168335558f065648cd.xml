@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Differentiated/Stratified Contribution Structures Implemented and Repeatable"
+    id="id-faa4d8de9fcb43168335558f065648cd"
+    documentation="This outcome involves the implementation of tiered payment models that adjust health contributions based on economic status or demographic categories. It creates a repeatable logic for calculating premiums or taxes across diverse population segments.&#xD;&#xA;&#xD;&#xA;The intent is to ensure financial equity by making health coverage affordable for lower-income groups while maintaining fund sustainability. It allows the system to scale predictably as new population groups are integrated into the health scheme.&#xD;&#xA;&#xD;&#xA;Example: A digital system that automatically calculates reduced insurance premiums for informal workers based on verified income data."/>

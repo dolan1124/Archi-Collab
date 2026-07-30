@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Community Health Info System "
+    id="id-d6b5693acabd43049d8443fffb70f547"
+    documentation="This application component captures and manages health-related data from community-based healthcare services, outreach activities, and population health programs. It supports monitoring of community-level health indicators and interventions.&#xD;&#xA;&#xD;&#xA;The purpose is to strengthen population health management and improves visibility into community healthcare performance and outcomes. It also supports planning and evaluation of public health initiatives.&#xD;&#xA;&#xD;&#xA;Example: Community health workers record household nutrition and immunization data through a mobile health reporting application."/>

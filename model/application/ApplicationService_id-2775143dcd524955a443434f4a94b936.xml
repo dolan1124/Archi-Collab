@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Decision-Making Service "
+    id="id-2775143dcd524955a443434f4a94b936"
+    documentation="This service provides evidence-based decision aids and preference capture tools that support meaningful dialogue between patients and providers when choosing among care options. It presents clinical information in accessible formats and records patient choices within the care record.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to ensure that clinical decisions reflect both medical evidence and the values, preferences, and circumstances of the patient.&#xD;&#xA;&#xD;&#xA;Example: A patient diagnosed with early-stage breast cancer is presented with a structured decision aid comparing surgical and non-surgical treatment options, including outcomes data and space to record her preferences before meeting with her oncologist."/>

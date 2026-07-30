@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable Timely Reporting and Coordinated Response"
+    id="id-be4d9efe64264d8590fa0244ebc6542b"
+    documentation="Enable Timely Reporting and Coordinated Response is a strategic public health goal focused on eliminating communication delays and aligning the actions of healthcare providers, laboratories, and emergency management agencies.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to ensure that critical health data flows instantly to decision-makers so that a unified, multi-agency countermeasure can be launched before an emergency escalates out of control.&#xD;&#xA;&#xD;&#xA;Example: When a highly contagious pathogen is identified, the system immediately transmits the lab confirmation to state epidemiologists while simultaneously triggering automated alerts to local hospitals to isolate incoming patients and secure personal protective equipment&#xD;&#xA;"/>

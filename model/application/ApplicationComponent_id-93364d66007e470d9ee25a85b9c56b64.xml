@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Tracing System"
+    id="id-93364d66007e470d9ee25a85b9c56b64"
+    documentation="A contact tracing system in healthcare surveillance is a structured network of public health tools and protocols designed to systematically identify, assess, and monitor individuals who have been exposed to an infectious disease.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to interrupt the chain of transmission by rapidly isolating confirmed cases and quarantining exposed contacts before they can spread the pathogen further into the community.&#xD;&#xA;&#xD;&#xA;Example: During a regional measles outbreak, health officials use the system to track down anyone who shared a clinic waiting room with an infected patient, advising them to monitor for symptoms or seek immediate vaccination"/>

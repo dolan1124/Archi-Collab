@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Transition Workflow Engine"
+    id="id-2b723e2816b340c18a2c61c713df93c8"
+    documentation="A Care Transition Workflow Engine is an automated orchestration system that coordinates and executes the sequential steps, data transfers, and operational rules required to move a patient safely between different healthcare settings or providers.&#xD;&#xA;&#xD;&#xA;Its purpose is to standardize and accelerate the handoff process, removing manual administrative bottlenecks and ensuring care teams seamlessly complete all clinical, logistical, and communication steps during a patient's transition.&#xD;&#xA;&#xD;&#xA;Example: The moment a physician signs a patient's hospital discharge order, this engine automatically assigns a preparation task to the pharmacy, requests a transport vehicle, and routes the discharge summary directly to the patient's primary care doctor."/>

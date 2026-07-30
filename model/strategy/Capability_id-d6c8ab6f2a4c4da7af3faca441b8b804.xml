@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provider and Facility Verification"
+    id="id-d6c8ab6f2a4c4da7af3faca441b8b804"
+    documentation="This capability ensures that personal health services and records are accessible to all citizens through multiple channels, including web portals and mobile devices. It focuses on inclusivity and reducing barriers to health information access.&#xD;&#xA;&#xD;&#xA;The purpose is to drive widespread adoption and ensure that all individuals, regardless of their location or device, can benefit from their health data. This supports the goal of equitable access to modern health services.&#xD;&#xA;&#xD;&#xA;Example: A multi-channel PHR portal that works on both high-end smartphones and basic feature phones via USSD.&#xD;&#xA;"/>

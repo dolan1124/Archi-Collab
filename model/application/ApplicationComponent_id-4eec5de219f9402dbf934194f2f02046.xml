@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personalized Care Plan Viewer"
+    id="id-4eec5de219f9402dbf934194f2f02046"
+    documentation="This component renders a patient's care plan, goals, and assigned tasks in a clear, non-clinical format that is understandable to patients and families. It draws on FHIR CarePlan, Goal, and Task resources to present a longitudinal view of the patient's care journey.&#xD;&#xA;&#xD;&#xA;The purpose of this component is to bridge the gap between clinical care documentation and patient understanding by translating structured health data into accessible, actionable information. It also supports self-management by making goals and next steps visible to the patient.&#xD;&#xA;&#xD;&#xA;Example: A patient with hypertension views their care plan through the portal, which displays their blood pressure targets, upcoming medication review, and lifestyle recommendations in plain language with progress indicators."/>

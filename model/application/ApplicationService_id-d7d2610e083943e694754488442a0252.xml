@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clinical Decision Support Service"
+    id="id-d7d2610e083943e694754488442a0252"
+    documentation="Clinical Decision Support Service: This service provides real-time guidance based on patient data and up-to-date medical protocols."/>

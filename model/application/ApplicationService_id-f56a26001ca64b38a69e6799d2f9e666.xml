@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision Support Service"
+    id="id-f56a26001ca64b38a69e6799d2f9e666"
+    documentation="A decision support service evaluates patient information against clinical rules and evidence-based guidelines. It generates patient-specific recommendations, reminders, and alerts for healthcare providers.&#xD;&#xA;&#xD;&#xA;The purpose of this application service is to support healthcare providers in making accurate, timely, and evidence-based clinical decisions. It also improves care quality and reduces the likelihood of clinical errors and omissions.&#xD;&#xA;&#xD;&#xA;Example: A physician receives an automated alert recommending additional laboratory tests based on abnormal patient results entered into the electronic medical record system."/>

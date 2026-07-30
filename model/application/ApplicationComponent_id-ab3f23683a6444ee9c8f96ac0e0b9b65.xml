@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDS Engine"
+    id="id-ab3f23683a6444ee9c8f96ac0e0b9b65"
+    documentation="A clinical decision support engine processes patient information against predefined clinical rules and evidence-based logic. It generates alerts, recommendations, and decision support outputs in real time.&#xD;&#xA;&#xD;&#xA;The purpose of this engine is to provide healthcare providers with timely and accurate clinical insights during patient care. It also powers automated decision support capabilities within digital health systems.&#xD;&#xA;&#xD;&#xA;Example: The CDS engine generates sepsis alerts based on abnormal vital signs and laboratory trends."/>

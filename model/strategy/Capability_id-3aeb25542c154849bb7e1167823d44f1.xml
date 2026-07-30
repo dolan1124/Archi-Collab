@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient History Integration"
+    id="id-3aeb25542c154849bb7e1167823d44f1"
+    documentation="The ability to aggregate and present a patient's longitudinal health record from various sources."/>

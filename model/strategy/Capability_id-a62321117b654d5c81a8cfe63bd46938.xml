@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Protocol Management"
+    id="id-a62321117b654d5c81a8cfe63bd46938"
+    documentation="Care Protocol Management is a strategic business capability that governs the creation, standardization, digital deployment, and maintenance of clinical guidelines and evidence-based pathways across a healthcare organization.&#xD;&#xA;&#xD;&#xA;Its purpose is to reduce clinical variation and ensure high-quality patient outcomes by embedding standardized, up-to-date medical best practices directly into everyday clinical workflows.&#xD;&#xA;&#xD;&#xA;Example: A hospital network uses this capability to establish a uniform, evidence-based sepsis treatment protocol that automatically triggers standard fluid volumes and antibiotic orders whenever a patient exhibits signs of systemic infection."/>

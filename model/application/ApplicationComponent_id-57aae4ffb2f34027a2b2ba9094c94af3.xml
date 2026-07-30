@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clinical Decision Support Engine"
+    id="id-57aae4ffb2f34027a2b2ba9094c94af3"
+    documentation="Clinical Decision Support Engine (integrated with national guideline repository)&#xD;&#xA;(guideline rules, AI-assisted gap detection)"/>

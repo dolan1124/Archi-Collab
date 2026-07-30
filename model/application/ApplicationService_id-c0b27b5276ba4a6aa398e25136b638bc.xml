@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability and Exchange Service"
+    id="id-c0b27b5276ba4a6aa398e25136b638bc"
+    documentation="An Interoperability &amp; Exchange Service is a dedicated software middleware module that enables disparate healthcare applications and IT environments to communicate, interpret, and securely share data using standardized transmission protocols.&#xD;&#xA;&#xD;&#xA;Its purpose is to dismantle information silos across distinct medical entities, ensuring that vital clinical data flows seamlessly between different systems without requiring complex manual translations.&#xD;&#xA;&#xD;&#xA;An emergency department uses this service to instantly pull a conscious patient's prescription history from an external pharmacy software network using secure HL7 FHIR (Fast Healthcare Interoperability Resources) data standards."/>

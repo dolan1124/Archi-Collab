@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Analytics Engine"
+    id="id-fc70dc8e3099419db5a0a81c81b5bf45"
+    documentation="This application component processes healthcare quality and operational data to generate insights, predictive analyses, trends, and performance evaluations. It supports advanced analytics for healthcare quality management and decision-making.&#xD;&#xA;&#xD;&#xA;The purpose is to enable evidence-based quality improvement and supports proactive identification of healthcare risks and performance gaps. It also enhances reporting and strategic healthcare planning.&#xD;&#xA;&#xD;&#xA;Example: The analytics engine identifies hospitals with increasing readmission trends and predicts facilities at risk of performance decline."/>

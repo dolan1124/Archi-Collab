@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revenue Performance Analytics (ability to monitor yield, leakage, and compliance)"
+    id="id-56e9dfb023c14b5093fe8f198608231a"
+    documentation="An advanced analytical capability that combines business intelligence and data modeling to actively track total financial intake, pinpoint where money is being lost, and monitor how well citizens and businesses follow tax laws.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to provide tax and health authorities with a clear, data-driven picture of the system's financial health so they can fix weak collection points, predict future budgets, and maximize funding for care.&#xD;&#xA;&#xD;&#xA;Example: Using this performance analytics capability, the ministry runs an automated quarterly review that reveals a specific commercial sector is underpaying its health contributions by 8%, allowing the government to deploy targeted audits to recover the missing revenue and plug the leakage."/>

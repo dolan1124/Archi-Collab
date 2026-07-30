@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability and Integration Service"
+    id="id-8051118ef3c44f0a8976edfed09a5028"
+    documentation="This application service enables secure and standardized data exchange between healthcare applications, registries, devices, and external systems. It facilitates communication and coordination across heterogeneous digital health platforms using interoperability standards and APIs.&#xD;&#xA;&#xD;&#xA;The purpose of this application service is to support seamless information sharing and continuity of care across healthcare organizations and systems. It also reduces data silos and improves interoperability between clinical and administrative platforms.&#xD;&#xA;&#xD;&#xA;Example: A laboratory information system automatically transmits diagnostic results to the hospital electronic medical record and clinical decision support systems."/>

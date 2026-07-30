@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Gateway Service"
+    id="id-ed54ddd2eef44e7eb556839b6302dc1c"
+    documentation="An Interoperability Gateway Service is a secure data-translation hub designed to connect disparate healthcare systems by standardizing and formatting medical data into mutually understood languages like HL7 or FHIR.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to eliminate data silos in public health infrastructure, ensuring that patient records, lab results, and surveillance data can flow instantly and securely between private clinics, hospital networks, and government agencies.&#xD;&#xA;&#xD;&#xA;Example: When a private hospital logs a positive tuberculosis lab result using its proprietary software, the gateway instantly translates that record into a compliant public health format and transmits it directly to the state's infectious disease database without manual entry."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheme Discovery and Guided Enrollment"
+    id="id-79828bb6d535462d9e93ac70226a1518"
+    documentation="This service provides a digital interface for citizens to find the health coverage options they are eligible for based on their profile. It uses built-in logic to assist users through the registration process for insurance or social protection programs.&#xD;&#xA;&#xD;&#xA;The objective is to lower the barriers to health coverage and ensure that citizens can easily secure their legal entitlements. It drives universal health coverage by making the enrollment journey simple and accessible for all segments of the population.&#xD;&#xA;&#xD;&#xA;Example: A mobile app that prompts a user to upload their ID and then automatically enrolls them in the government-subsidized &quot;Vulnerable Families&quot; plan."/>

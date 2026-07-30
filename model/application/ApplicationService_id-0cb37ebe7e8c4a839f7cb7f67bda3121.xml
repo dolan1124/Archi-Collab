@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medication Reconciliation Service"
+    id="id-0cb37ebe7e8c4a839f7cb7f67bda3121"
+    documentation="A Medication Reconciliation Service is a standardized digital safety application that compiles a comprehensive, accurate list of a patient’s current medications and compares it against new orders to identify and resolve discrepancies.&#xD;&#xA;&#xD;&#xA;Its purpose is to prevent dangerous medication errors—such as duplicate therapies, omissions, or harmful drug interactions—whenever a patient transitions between different care settings or providers.&#xD;&#xA;&#xD;&#xA;Example: During a patient's admission to the ward, the service automatically flags that the home dosage of their blood thinner conflicts with the new post-surgery orders, prompting the attending physician to correct the prescription before the first dose is administered."/>

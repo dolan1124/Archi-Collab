@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revenue Collection and Enforcement (ability to bill, collect, track, and manage areas)"
+    id="id-88bb1fb405b04529ac330bb9b7c90b9d"
+    documentation="An advanced operational capability that gives the state the necessary tools to issue accurate invoices, process incoming payments, monitor balances, and aggressively claw back unpaid health taxes or contributions.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to secure a steady cash flow for the health sector by automating the entire billing cycle and ensuring that individuals and corporations who skip payments are systematically identified and held accountable.&#xD;&#xA;&#xD;&#xA;Example: Using this automated collection and enforcement capability, the health fund's system automatically issues monthly digital bills to private employers, flags a mid-sized logistics company the moment a payment deadline passes, calculates interest on the overdue balance, and locks in a legally mandated repayment plan to recover the outstanding arrears."/>

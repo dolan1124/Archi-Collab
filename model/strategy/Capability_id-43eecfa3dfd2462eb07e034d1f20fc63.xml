@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7.0 Knowledge Dissemination and Alerts "
+    id="id-43eecfa3dfd2462eb07e034d1f20fc63"
+    documentation="Governs the structured creation, targeted routing, and multi-channel transmission of validated public health insights, clinical guidelines, situation reports, and emergency alerts to specific stakeholder groups&#xD;&#xA;&#xD;&#xA;Example: A health system utilizes this capability by automatically pushing an urgent notification and a revised prescribing guide to all practicing pediatricians the moment a major regulatory agency issues a new warning about a common childhood cough medicine.&#xD;&#xA;"/>

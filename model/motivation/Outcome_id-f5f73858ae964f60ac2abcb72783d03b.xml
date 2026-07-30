@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demonstrable Privacy Compliance through Evidence Logs and Reports"
+    id="id-f5f73858ae964f60ac2abcb72783d03b"
+    documentation="This outcome is the production of tangible evidence, such as logs and summaries, that prove the health system is following its established privacy policies. It moves beyond &quot;having rules&quot; to providing data-driven proof that those rules are consistently followed.&#xD;&#xA;&#xD;&#xA;It provides the legal and technical assurance needed to satisfy regulators, patients, and donors that their data is being handled ethically. These reports act as the primary evidence during privacy litigation or for obtaining international regulatory certifications.&#xD;&#xA;&#xD;&#xA;Example: An automated weekly report that confirms all data access requests from the past seven days matched a valid patient consent record."/>

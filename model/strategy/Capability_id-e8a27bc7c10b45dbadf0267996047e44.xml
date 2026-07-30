@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Privacy"
+    id="id-e8a27bc7c10b45dbadf0267996047e44"
+    documentation="This capability encompasses the technical and administrative controls used to protect sensitive data from unauthorized disclosure or breach. It includes encryption, data masking, and secure storage protocols.&#xD;&#xA;&#xD;&#xA;The purpose is to protect the privacy of individuals and safeguard health information against cyber threats. It is a fundamental requirement for maintaining public confidence in digital health initiatives.&#xD;&#xA;&#xD;&#xA;Example: Implementing end-to-end encryption for all patient data stored in the national PHR repository.&#xD;&#xA;"/>

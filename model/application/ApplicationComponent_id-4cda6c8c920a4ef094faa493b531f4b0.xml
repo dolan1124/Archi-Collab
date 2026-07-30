@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Pathway Engine"
+    id="id-4cda6c8c920a4ef094faa493b531f4b0"
+    documentation="Care Pathway Engine (workflow orchestration for chronic/preventive care)"/>

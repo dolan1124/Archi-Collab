@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PKI / Certificate Authority"
+    id="id-9ce21c13bd5946a88a5a947df361afca"
+    documentation="The PKI or Certificate Authority is the component that issues and manages digital certificates used to establish trust and security in electronic communications. It provides the &quot;digital stamps&quot; needed for encryption and non-repudiable digital signatures.&#xD;&#xA;&#xD;&#xA;Its purpose is to establish technical trust across the health network, ensuring that documents and identities are authentic and tamper-proof. It allows recipients to verify that a payment authorization or medical report came from a legitimate source.&#xD;&#xA;&#xD;&#xA;Example: A central authority that issues digital certificates to every licensed doctor to sign their electronic prescriptions."/>

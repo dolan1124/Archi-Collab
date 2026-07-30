@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case and Event Reporting Service"
+    id="id-ba8950863a20479bbfc32fabfef5341f"
+    documentation="A Case and Event Reporting Service is a centralized public health intelligence system that collects, validates, and processes data regarding specific disease diagnoses and unusual health incidents from healthcare providers&#xD;&#xA;&#xD;&#xA;Its primary purpose is to provide public health authorities with early warnings and real-time situational awareness to detect potential outbreaks and coordinate rapid responses&#xD;&#xA;&#xD;&#xA;Example: Multiple hospitals suddenly report an unusual cluster of severe respiratory illness via the service, state epidemiologists are immediately alerted to investigate a potential new viral outbreak&#xD;&#xA;"/>

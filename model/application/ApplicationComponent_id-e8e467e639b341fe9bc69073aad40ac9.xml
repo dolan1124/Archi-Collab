@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure Communication Component"
+    id="id-e8e467e639b341fe9bc69073aad40ac9"
+    documentation="This component provides the technical infrastructure for encrypted messaging and video communication between patients, families, and care team members. It integrates with FHIR Communication resources and supports both asynchronous and real-time interaction modes.&#xD;&#xA;&#xD;&#xA;The purpose of this component is to deliver a standards-based communication layer that protects patient privacy while enabling convenient, ongoing contact with the care team. &#xD;&#xA;&#xD;&#xA;Example: A patient sends a message through the portal asking about a side effect from a new medication. The component routes the message to the prescribing physician, logs it against the patient's record, and notifies the physician of a pending response.&#xD;&#xA;"/>

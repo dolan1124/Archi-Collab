@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient Portal / Mobile Engagement Service"
+    id="id-551cc1c8c9b649f7817440da40650716"
+    documentation="This service provides patients with secure, personalized access to their health history, care plans, test results, and appointment information through web and mobile interfaces. It serves as the primary digital entry point for patient interaction with the health system.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to ensure that patients can access their own health information at any time and use it to stay informed and engaged in their care. It also reduces unnecessary contact with facilities by enabling patients to self-serve routine information needs.&#xD;&#xA;&#xD;&#xA;Example: A patient logs into the health portal to view recent lab results, confirm an upcoming appointment, and download a summary of their current medications before a specialist consultation."/>

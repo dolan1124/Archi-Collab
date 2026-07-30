@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improved Targeting (lower inclusion/exclusion errors)"
+    id="id-4a402caf8306430586f9a29a550e9af0"
+    documentation="The &quot;Improved Targeting&quot; goal is a precision-driven healthcare objective focused on using demographic, clinical, and social data to accurately identify and direct specialized interventions to the specific patient populations most likely to benefit from them.&#xD;&#xA;&#xD;&#xA;Its purpose is to maximize the impact of limited healthcare resources by focusing preventive services, chronic disease management, and specialized outreach on high-risk, high-need, or historically underserved individuals.&#xD;&#xA;&#xD;&#xA;Example: A public health department achieves this goal by analyzing local EHR data to locate neighborhoods with the highest pediatric asthma emergency rates, allowing them to target those exact blocks with home-based allergen-reduction programs."/>

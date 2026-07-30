@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electronic Health Record with Task Tracker "
+    id="id-62e472e671614d8fbcea39f681f5e981"
+    documentation="Electronic Health Record with Task Tracker (FHIR Task + scheduling logic)&#xD;&#xA;May or may not be included in module of an EMR System"/>

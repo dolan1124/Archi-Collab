@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strengthen Adverse Event Reporting (AER) and Pharmacovigilance"
+    id="id-8afd6241e6f64a28943bac0a15ef976a"
+    documentation="Strengthen Adverse Event Reporting (AER) and Pharmacovigilance is a critical safety goal focused on optimizing the speed, compliance, and depth with which medical product complications are tracked and analyzed post-approval.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to establish a hyper-vigilant safety net that rapidly uncovers hidden risks in drugs, vaccines, and medical devices, ensuring public trust and preventing widespread patient harm.&#xD;&#xA;&#xD;&#xA;Example: By mandating automated electronic health record triggers for suspected drug toxicities and utilizing machine learning to scour global safety databases, health authorities can instantly detect a rare cardiovascular risk in a newly released medication, allowing them to issue immediate black-box warnings or market restrictions.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback and Alerting Component"
+    id="id-97d4f77bfc714945b6a5354289bc7056"
+    documentation="This application component delivers automated notifications, warnings, reminders, and performance feedback related to healthcare quality and patient safety events. It supports real-time communication of quality concerns and corrective actions.&#xD;&#xA;&#xD;&#xA;The purpose is to enable timely awareness and response to quality issues and operational risks. It also improves coordination and accountability in quality management processes.&#xD;&#xA;&#xD;&#xA;Example: Healthcare providers receive automated alerts when patient safety incidents exceed predefined thresholds."/>

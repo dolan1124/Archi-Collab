@@ -1,0 +1,5 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Workers"
+    id="id-72c23190981049d9843ea460971cf55f"
+    documentation="An individual or group within the healthcare ecosystem who performs clinical and administrative duties and is directly impacted by how operational systems handle their compensation.&#xD;&#xA;&#xD;&#xA;They ensure patient care is delivered effectively while requiring transparent, dependable, and timely payroll operations to sustain their livelihood and focus on clinical outcomes.&#xD;&#xA;&#xD;&#xA;Example: &quot;Registered Nurses, resident physicians, and medical laboratory technicians who rely on the hospital's digital payroll system to accurately reflect their night-shift differentials and overtime.&quot;"/>

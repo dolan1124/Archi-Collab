@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Continuity of Care Bundle"
+    id="id-3a0bab0cc8584ebcb8dc2fe149d1b63c"
+    documentation="Continuity of Care Bundle:&#xD;&#xA;A structured, interoperable digital package (e.g., FHIR-based) including discharge summary, medication list, pending results, and follow-up plan.&#xD;&#xA;Reduced readmission rates, duplicated tests and adverse events due to missed information.&#xD;&#xA;Improved provider accountability across care episodes.&#xD;&#xA;Patient-facing discharge/transition plan (simplified language, reminders).&#xD;&#xA;Population-level monitoring of transition-of-care quality indicators (e.g., % timely discharge summaries sent, 30-day readmissions)."/>

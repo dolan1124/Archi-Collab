@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multi-factor Authentication (MFA)"
+    id="id-0b566915f86f43cdbed99825a3dcc8a9"
+    documentation="MFA is a security component that requires users to provide two or more forms of verification to access a health financing system. It typically combines something the user knows (password) with something they have (a code on their phone).&#xD;&#xA;&#xD;&#xA;Its purpose is to provide a robust defense against unauthorized access and account takeovers by cybercriminals. It is a critical safeguard for protecting sensitive financial data and the integrity of national health budgets.&#xD;&#xA;&#xD;&#xA;Example: A budget officer being required to provide a fingerprint scan and a mobile app code to authorize a large fund transfer."/>

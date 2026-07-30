@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Allocation Scenario Modelling Tools"
+    id="id-da759fd91252446aa177ef1637de4ae5"
+    documentation="This service allows financial planners to simulate the impact of different budget allocation strategies before they are officially implemented. It allows for &quot;what-if&quot; testing of new risk-adjustment or population-based funding formulas.&#xD;&#xA;&#xD;&#xA;The intent is to identify the most effective and equitable way to distribute health funds while minimizing unintended consequences. It provides a safe environment for testing policy changes and optimizing the distribution of limited resources.&#xD;&#xA;&#xD;&#xA;Example: A simulation showing how changing a regional funding formula would impact the budget of small rural clinics versus large hospitals."/>

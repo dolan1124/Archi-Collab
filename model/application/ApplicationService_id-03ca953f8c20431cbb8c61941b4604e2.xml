@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Indicator Definition Service"
+    id="id-03ca953f8c20431cbb8c61941b4604e2"
+    documentation="This application service manages standardized definitions, formulas, and metadata for healthcare quality indicators and performance measures. It ensures that quality metrics are consistently interpreted and applied across systems and organizations.&#xD;&#xA;&#xD;&#xA;The purpose is to promote standardization and comparability of healthcare quality measurements. It also supports governance and consistency in quality reporting processes.&#xD;&#xA;&#xD;&#xA;Example: All hospitals use the same nationally approved definition for calculating hospital readmission rates."/>

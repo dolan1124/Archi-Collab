@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outbreak Response Management System (ORMS)"
+    id="id-dd87bd3684d64a9a865f09e8a5e6daf0"
+    documentation="An integrated, systematic digital data platform designed to manage the entire lifecycle of a public health emergency. Supports the systematic execution of the response process.&#xD;&#xA;&#xD;&#xA;Example: Telemedicine enabling authorized provider-to-provider consultations for case verification and response coordination.&#xD;&#xA;"/>

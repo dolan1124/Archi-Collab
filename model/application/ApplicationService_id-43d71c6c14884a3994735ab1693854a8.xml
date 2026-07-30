@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Assessment and Stratification Algorithms"
+    id="id-43d71c6c14884a3994735ab1693854a8"
+    documentation="An advanced application service that runs incoming population health and demographic data through statistical models to categorize individuals or regional cohorts into distinct tiers of financial and clinical risk.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to automate the processing of massive datasets to identify high-risk, high-cost populations before they develop catastrophic health conditions, enabling preventative medical care and highly accurate actuarial budgeting.&#xD;&#xA;&#xD;&#xA;Example: The risk assessment and stratification algorithms service scans thousands of regional electronic health profiles each month, flagging a specific group of 1,200 individuals with co-occurring hypertension and pre-diabetes as &quot;Tier 1 High Risk&quot; so that care management teams can intervene with preventative coaching before they require expensive hospitalization."/>

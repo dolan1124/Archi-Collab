@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Coordination and Task Assignment Service"
+    id="id-819f7bd07c3845cbb8502a1ac907479f"
+    documentation="Care Coordination and Task Assignment Service: This service facilitates the referral of patients and the delegation of tasks between different health workers and facilities."/>

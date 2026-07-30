@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real-time Collaboration Service"
+    id="id-cadcf07294e74375bb159639895c92e0"
+    documentation="This service enables synchronous communication among care team members through voice, video, and live chat capabilities. It supports virtual consultations, case conferences, and multidisciplinary team meetings across locations.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to reduce the need for physical co-location while maintaining the quality and immediacy of clinical collaboration. It also supports timely decision-making when team members are distributed across facilities or shifts.&#xD;&#xA;&#xD;&#xA;Example: A specialist at a regional hospital joins a virtual case review with a rural health team to provide guidance on a complex patient diagnosis without requiring patient transfer."/>

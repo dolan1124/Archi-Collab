@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guideline Repository Service"
+    id="id-69ee4b0d9d4a47619492341f231285ae"
+    documentation="A guideline repository service centrally stores, manages, and distributes approved clinical protocols and treatment standards. It ensures that healthcare providers can access updated guidance across facilities and systems.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to ensure that healthcare systems consistently use the latest approved clinical guidance. It also supports standardization and governance of clinical protocols across facilities and platforms.&#xD;&#xA;&#xD;&#xA;Example: A national health platform publishes updated maternal and child health protocols that are automatically accessible within hospital electronic medical record systems."/>

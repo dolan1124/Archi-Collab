@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback and Learning Service"
+    id="id-4327ef6da5e14dd79eda8657acb50b84"
+    documentation="This application service delivers performance feedback, recommendations, and learning resources to healthcare providers and organizations based on quality monitoring results. It supports organizational learning and continuous improvement initiatives.&#xD;&#xA;&#xD;&#xA;The purpose is to encourage corrective actions and strengthens healthcare quality improvement capabilities. It also promotes knowledge sharing and adoption of best practices.&#xD;&#xA;&#xD;&#xA;Example: Clinicians receive feedback reports highlighting areas with low compliance to clinical care standards."/>

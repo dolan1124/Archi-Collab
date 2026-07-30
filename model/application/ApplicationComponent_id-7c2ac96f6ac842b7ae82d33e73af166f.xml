@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Adapter / Reconciliation Service"
+    id="id-7c2ac96f6ac842b7ae82d33e73af166f"
+    documentation="Sits between the core health finance system and external banking networks to translate, route, and automatically match incoming digital transactions against open invoices.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to automate the labor-intensive process of clearing payments, ensuring that bank transfers, mobile money deposits, and card transactions are instantly recognized, verified, and closed out on the master ledger without human intervention.&#xD;&#xA;&#xD;&#xA;Example: When an employer pays their monthly health insurance premium via an external commercial bank portal, the payment adapter / reconciliation service ingests the raw bank transaction file, translates its proprietary layout into the health system's standard format, and matches the cash directly to the employer's account balance within seconds."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IAM / Access Control System"
+    id="id-fa6cabf101f842de80999655d488f096"
+    documentation="The Identity and Access Management (IAM) system is a security component that manages the roles and permissions of all users in the health network. It ensures that individuals and systems are authenticated before they are granted access to specific data objects.&#xD;&#xA;&#xD;&#xA;The purpose is to prevent unauthorized access and protect the privacy of sensitive medical information. it enforces role-based access policies to ensure that clinicians only see data relevant to the care they are providing.&#xD;&#xA;&#xD;&#xA;Example: A system that requires two-factor authentication for a nurse to view a patient’s medication history while blocking them from viewing unrelated psychiatric notes."/>

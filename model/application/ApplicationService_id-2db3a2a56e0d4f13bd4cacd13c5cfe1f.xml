@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning and Development Planning Service"
+    id="id-2db3a2a56e0d4f13bd4cacd13c5cfe1f"
+    documentation="The self-contained software component within the enterprise application layer that enables healthcare managers and individual practitioners to design, schedule, and track personalized multi-year educational pathways and institutional upskilling roadmaps.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to align long-term workforce capability development with systemic healthcare goals by projecting future skill requirements and automatically recommending targeted training trajectories for health workers.&#xD;&#xA;&#xD;&#xA;Example: &quot;The Learning &amp; Development Planning Service analyzed a hospital's upcoming transition to electronic health records and automatically built a six-month training roadmap for the entire nursing staff to ensure smooth adoption.&quot;"/>

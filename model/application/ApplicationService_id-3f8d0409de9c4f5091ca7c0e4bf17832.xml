@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent and Data Governance Service"
+    id="id-3f8d0409de9c4f5091ca7c0e4bf17832"
+    documentation="A Consent and Data Governance Service is a secure regulatory framework within health infrastructure that manages patient privacy preferences, data access permissions, and legal compliance policies.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to protect patient autonomy and data integrity by ensuring that health information is only accessed, shared, or analyzed in strict accordance with individual consent and data protection laws.&#xD;&#xA;&#xD;&#xA;Example: If a patient opts out of sharing their medical records for research, the service automatically blocks academic institutions from pulling their lab data while still allowing treating emergency room physicians to view it."/>

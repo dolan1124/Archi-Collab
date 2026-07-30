@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Claims Adjudication and Reimbursement Management "
+    id="id-806699c473dc4aaba8be84453f86ae45"
+    documentation="This capability encompasses the process of reviewing medical claims against policy rules and authorizing payments to healthcare providers. It uses automated rules engines to decide if a claim is valid and calculate the correct reimbursement amount.&#xD;&#xA;&#xD;&#xA;The goal is to ensure affordable and efficient purchasing through timely payments and strict cost control. It minimizes manual errors and administrative waste, allowing funds to reach providers faster while preventing fraudulent billing.&#xD;&#xA;&#xD;&#xA;Example: A system automatically approving a standard consultation claim while flagging an unusual high-cost lab test for human review."/>

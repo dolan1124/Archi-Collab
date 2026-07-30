@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.0 Risk Assessment and Intelligence"
+    id="id-64b9c6fb959747abacb0b5274cd69664"
+    documentation="Capability used to determine the likelihood and severity of an identified public health hazard, and integrate, synthesize, and analyze diverse data streams to create a predictive, comprehensive &quot;situational awareness&quot; picture for leadership&#xD;&#xA;&#xD;&#xA;Example: Dashboards integrated with GIS generating risk maps on locations&#xD;&#xA;"/>

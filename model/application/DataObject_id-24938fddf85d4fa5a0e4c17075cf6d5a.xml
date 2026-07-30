@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminology Server"
+    id="id-24938fddf85d4fa5a0e4c17075cf6d5a"
+    documentation="A terminology server manages standardized clinical codes, terminologies, and classifications used across healthcare systems. It ensures that systems interpret and exchange healthcare data consistently.&#xD;&#xA;&#xD;&#xA;The purpose of this data object is to enable semantic interoperability and improves the accuracy of healthcare reporting and analytics. It also supports standardized clinical documentation and decision support processes.&#xD;&#xA;&#xD;&#xA;Example: Different hospital systems use standardized SNOMED CT and ICD-10 codes through a shared terminology server."/>

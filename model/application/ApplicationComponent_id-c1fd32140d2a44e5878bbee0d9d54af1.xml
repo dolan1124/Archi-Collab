@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PHR Portal/Mobile App"
+    id="id-c1fd32140d2a44e5878bbee0d9d54af1"
+    documentation="The PHR Portal/Mobile App is a user-facing digital interface that allows individuals to access, manage, and share their personal health information. It serves as the primary interaction point for citizens to engage with their Trusted Personal Health Record and manage their wellness.&#xD;&#xA;&#xD;&#xA;Its purpose is to empower patients by providing them with direct access to their own medical data and health services. It facilitates patient-provider communication and promotes self-management of health conditions through digital engagement and access control.&#xD;&#xA;&#xD;&#xA;Example: A mobile application where a citizen can download their verifiable vaccination certificates and lab test results to share with a provider."/>

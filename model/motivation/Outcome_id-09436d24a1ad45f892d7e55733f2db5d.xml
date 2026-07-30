@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Safer Care: Reduction in Adverse Drug Events, Missed Diagnoses, Inappropriate Interventions"
+    id="id-09436d24a1ad45f892d7e55733f2db5d"
+    documentation="Safer care mechanisms use automated checks and evidence-based safeguards within clinical workflows. These mechanisms help identify medication risks, diagnostic gaps, and inappropriate interventions before harm occurs.&#xD;&#xA;&#xD;&#xA;The purpose of this outcome is to protect patients from preventable adverse events and strengthens the accuracy of clinical care. It also reduces complications associated with unsafe prescribing and delayed diagnoses.&#xD;&#xA;&#xD;&#xA;Example: A prescribing system automatically blocks duplicate antibiotic orders that may lead to overdose or antimicrobial resistance."/>

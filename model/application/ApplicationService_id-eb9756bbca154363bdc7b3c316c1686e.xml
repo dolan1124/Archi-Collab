@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contribution Performance Analytics"
+    id="id-eb9756bbca154363bdc7b3c316c1686e"
+    documentation="An advanced application service that processes historical and real-time payment data to generate dashboards, trends, and projections regarding target revenue yields versus actual collections.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to provide executives and financial analysts with clear visibility into collection health, helping them forecast future budgets, evaluate the success of rate changes, and identify systemic shortfalls.&#xD;&#xA;&#xD;&#xA;Example: The contribution performance analytics service compiles data from the past three fiscal quarters to show that a recent rate hike on luxury industries beat revenue expectations by 12%, allowing the health board to confidently approve a budget expansion for rural clinical equipment."/>

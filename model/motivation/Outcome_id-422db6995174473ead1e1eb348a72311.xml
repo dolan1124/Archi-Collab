@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verified and Trusted Health Records that Improve Quality of Care"
+    id="id-422db6995174473ead1e1eb348a72311"
+    documentation="The &quot;Verified and Trusted Health Records that Improve Quality of Care&quot; goal is a clinical data integrity objective focused on ensuring all electronic patient records are accurate, secure, up-to-date, and verified by authoritative sources to drive safe medical decisions.&#xD;&#xA;&#xD;&#xA;Its purpose is to establish complete trust in clinical data across different systems, reducing diagnostic errors, redundant testing, and medical mishaps caused by incorrect or incomplete patient information.&#xD;&#xA;&#xD;&#xA;Example: A hospital network achieves this goal by implementing cryptographic validation on its allergy lists, giving treating physicians 100% confidence that a patient's documented penicillin allergy is clinically verified before prescribing an alternative antibiotic."/>

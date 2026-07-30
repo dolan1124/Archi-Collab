@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Management Service"
+    id="id-3a48e3ef88f74e8d8c5e524df9f03e0c"
+    documentation="This service manages the storage, retrieval, and enforcement of patient consent artifacts. It ensures that any request for health data is checked against the patient's current permission settings.&#xD;&#xA;&#xD;&#xA;The purpose is to automate the enforcement of privacy policies and ensure that data is only shared according to the patient’s wishes. This provides a scalable way to manage complex privacy requirements across the network.&#xD;&#xA;&#xD;&#xA;Example: An API that returns &quot;Authorized&quot; or &quot;Denied&quot; when a doctor attempts to open a patient's surgical history.&#xD;&#xA;"/>

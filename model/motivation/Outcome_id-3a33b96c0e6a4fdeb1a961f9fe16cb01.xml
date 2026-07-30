@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real-time Eligibility and Entitlement Decisions at Point of Service"
+    id="id-3a33b96c0e6a4fdeb1a961f9fe16cb01"
+    documentation="This refers to the ability of the health system to provide instant verification of a patient's coverage and benefits at the point of care. It utilizes high-speed digital queries to check the current status of an individual within the insurance registry.&#xD;&#xA;&#xD;&#xA;The objective is to provide a seamless and dignified experience for patients while reducing administrative uncertainty for providers. It ensures that clinical services can begin without delay and that financial liability is understood immediately.&#xD;&#xA;&#xD;&#xA;Example: A hospital receptionist receiving an instant &quot;Authorized&quot; status and benefit summary upon scanning a patient’s digital health ID."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Management Information Service System"
+    id="id-10605ac9d5ed46a8a8cf211d39089011"
+    documentation="A Health Management Information Service System is an integrated digital platform designed to collect, store, manage, and transmit comprehensive healthcare data across clinical and administrative networks.&#xD;&#xA;&#xD;&#xA;Its core purpose is to streamline operational workflows and provide real-time data insights that enable healthcare providers to make informed decisions and improve overall patient care quality.&#xD;&#xA;&#xD;&#xA;A regional hospital network uses this system to instantly share patient electronic health records, track bed availability, and automatically report disease outbreaks to public health authorities."/>

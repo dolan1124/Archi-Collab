@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task-Specific Guidance Service"
+    id="id-4c3fbedc5d81433da5a5f5abdb99b480"
+    documentation="This application service delivers context-aware instructions, recommendations, and procedural guidance for specific clinical activities and workflows. It provides targeted support based on the task being performed and the user’s role.&#xD;&#xA;&#xD;&#xA;The purpose of this application service improves consistency, accuracy, and compliance in the execution of clinical and operational tasks. It also reduces variability in healthcare procedures and workflows.&#xD;&#xA;&#xD;&#xA;Example: A nurse receives step-by-step vaccination guidance and dosage recommendations during immunization administration."/>

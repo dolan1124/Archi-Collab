@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring and Evaluation Service"
+    id="id-108621132f3346d8a0aa054148010b14"
+    documentation="A Monitoring &amp; Evaluation Service is an automated analytical system that continuously tracks health application performance, clinical workflows, and system utilization metrics against predefined key performance indicators.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide administrators with objective, real-time data visibility to assess system health, ensure regulatory compliance, and identify operational bottlenecks before they impact patient care.&#xD;&#xA;&#xD;&#xA;A hospital network uses this service to track the average time it takes for lab results to display in an electronic chart, automatically triggering an alert if system lag exceeds acceptable clinical thresholds."/>

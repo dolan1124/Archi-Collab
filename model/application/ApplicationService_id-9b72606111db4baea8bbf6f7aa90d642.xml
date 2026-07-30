@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Confirmation at Point of Service"
+    id="id-9b72606111db4baea8bbf6f7aa90d642"
+    documentation="This service uses digital credentials or biometrics to verify the physical identity of a patient during a healthcare encounter. It ensures that the individual seeking care is the legitimate owner of the health identity being presented to the provider.&#xD;&#xA;&#xD;&#xA;The purpose is to prevent identity theft and the fraudulent use of health benefits by non-eligible individuals. It ensures that medical records are linked to the correct person, which is essential for patient safety and financial integrity.&#xD;&#xA;&#xD;&#xA;Example: A clinic using a fingerprint scan to authenticate a patient before verifying their insurance eligibility."/>

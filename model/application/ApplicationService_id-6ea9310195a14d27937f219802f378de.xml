@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adverse Event Reporting Service"
+    id="id-6ea9310195a14d27937f219802f378de"
+    documentation="An Adverse Event Reporting Service is a post-market safety surveillance system designed to collect, aggregate, and analyze reports of unexpected or harmful medical occurrences resulting from the use of drugs, vaccines, or medical devices.&#xD;&#xA;&#xD;&#xA;Its primary purpose is to continuously monitor medical products after approval to identify rare side effects, detect safety trends, and ensure patient safety on a population scale.&#xD;&#xA;&#xD;&#xA;Example: A newly authorized influenza vaccine causes an unusual rate of severe allergic reactions, the service flags the spike in reports, prompting regulatory agencies to update the product warning label or issue a safety recall"/>

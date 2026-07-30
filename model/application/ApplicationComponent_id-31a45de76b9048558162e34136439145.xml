@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beneficiary Registry"
+    id="id-31a45de76b9048558162e34136439145"
+    documentation="The beneficiary registry is a master database containing the identities and profiles of individuals enrolled in health insurance or social protection schemes. It tracks each member’s unique health identifier and their current enrollment status.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide an authoritative source for identifying who is entitled to receive health benefits. It is critical for managing population coverage and ensuring that health subsidies reach the intended recipients accurately.&#xD;&#xA;&#xD;&#xA;Example: A national health insurance database that lists all 5 million citizens eligible for the universal health coverage program."/>

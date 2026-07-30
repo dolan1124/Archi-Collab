@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability and Health Information Exchange"
+    id="id-657417b7eaee44809380536c58624bab"
+    documentation="This capability involves the lifecycle management of longitudinal patient records, ensuring they are verifiable, accurate, and accessible over time. It encompasses the capture, storage, and retrieval of clinical data in a standardized format.&#xD;&#xA;&#xD;&#xA;The purpose is to maintain a continuous and trustworthy medical history for every individual throughout their life. It provides the foundational data layer required for integrated care and patient empowerment.&#xD;&#xA;&#xD;&#xA;Example: A system capability to link a patient’s childhood immunization record with their current health status 20 years later."/>

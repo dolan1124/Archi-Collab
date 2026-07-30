@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit Log Service"
+    id="id-5d6ef7b9e72f443cbe14f922d585f97e"
+    documentation="This service provides the infrastructure for logging system activities and enforcing data protection policies like encryption. It ensures that all actions are traceable and that data at rest and in transit is secured.&#xD;&#xA;&#xD;&#xA;The purpose is to maintain a secure and accountable environment for health data. It supports regulatory audits and helps detect potential security threats or privacy violations.&#xD;&#xA;&#xD;&#xA;Example: A service that encrypts all clinical notes before they are saved to the primary database.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient-Reported Outcome Service"
+    id="id-222e1a2ec8934efd9cba4fea4092efa3"
+    documentation="This service collects structured data on patient symptoms, well-being, and care experiences through digital surveys and questionnaires. It integrates responses into the clinical record to inform care decisions and quality improvement.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to ensure that the patient's perspective on their health and care experience is systematically captured and used alongside clinical data. &#xD;&#xA;&#xD;&#xA;Example: A patient undergoing chemotherapy completes a weekly symptom survey through the health portal. A significant increase in reported fatigue automatically triggers a follow-up task for the oncology nurse to contact the patient."/>

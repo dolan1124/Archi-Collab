@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preventive Care and Risk Stratification Module"
+    id="id-1531d5dd272947bb9fb1afda43fb8640"
+    documentation="A preventive care and risk stratification module categorizes patients based on health risks and preventive care requirements. It uses patient data to prioritize screenings, interventions, and follow-up services.&#xD;&#xA;&#xD;&#xA;The purpose of this application component is to support proactive healthcare delivery and improves early disease detection. It also strengthens population health management and preventive care planning.&#xD;&#xA;&#xD;&#xA;Example: High-risk diabetic patients are automatically scheduled for annual kidney and eye screening reminders."/>

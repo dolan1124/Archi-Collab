@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rules Engine"
+    id="id-9656a25d21764b3ea9fc54f74319e64d"
+    documentation="A rules engine is a specialized software component that executes complex &quot;If-Then&quot; logic to automate decisions, primarily in claims adjudication. It compares incoming medical claims against policy rules, contracts, and clinical guidelines to determine payment.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide efficient and consistent decision-making while reducing the need for manual claim review. It ensures that health funds are protected by automatically flagging any transaction that does not meet established criteria.&#xD;&#xA;&#xD;&#xA;Example: A logic engine that automatically approves a standard consultation claim but flags a high-cost MRI if no prior authorization was recorded."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="6.0 Data Governance and Privacy"
+    id="id-14d069ea9e684373b34720d0aa2cb8eb"
+    documentation="Establishes organizational accountability, policies, standards, and enforcement mechanisms to manage the entire lifecycle of public health data, ensuring its availability, quality, integrity, security, and strict compliance with privacy regulations&#xD;&#xA;&#xD;&#xA;Example: Enforcing a set of policies and procedures to ensure data is handle in a specific way; coding these rules into system restrictions and access control groups&#xD;&#xA;"/>

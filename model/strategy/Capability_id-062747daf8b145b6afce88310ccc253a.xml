@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collaborative Care Planning Management"
+    id="id-062747daf8b145b6afce88310ccc253a"
+    documentation="Collaborative Care Planning Management:&#xD;&#xA;Enable multi-disciplinary teams (including patients) to co-create, update, and track care plans.&#xD;&#xA;Ensure alignment with national clinical guidelines and decision support systems.&#xD;&#xA;Manage longitudinal updates across facilities and episodes of care.&#xD;&#xA;Assign roles, responsibilities, and accountability for tasks.&#xD;&#xA;Support version control and audit trail for legal and clinical safety."/>

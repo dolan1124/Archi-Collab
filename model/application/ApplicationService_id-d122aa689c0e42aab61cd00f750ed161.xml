@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Delegation and Escalation Service"
+    id="id-d122aa689c0e42aab61cd00f750ed161"
+    documentation="This service supports the assignment, tracking, and escalation of care-related tasks among team members across disciplines and roles. It ensures that responsibilities are clearly communicated, acknowledged, and followed through within defined timeframes.&#xD;&#xA;&#xD;&#xA;The purpose of this service is to reduce care gaps caused by unclear ownership of clinical actions and to ensure that urgent tasks are escalated appropriately when not addressed in time. It also improves team coordination by making task status visible to all relevant members.&#xD;&#xA;&#xD;&#xA;Example: A physician assigns a post-discharge follow-up call to a community health worker through the platform. If the task is not acknowledged within a set period, it is automatically escalated to the supervising nurse."/>

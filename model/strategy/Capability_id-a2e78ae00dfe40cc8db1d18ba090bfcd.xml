@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Detection and Prevention"
+    id="id-a2e78ae00dfe40cc8db1d18ba090bfcd"
+    documentation="This capability focuses on the proactive measures used to stop fraudulent financial activity before it results in a loss of funds. it includes real-time blocks on suspicious transactions and the continuous improvement of risk-scoring models.&#xD;&#xA;&#xD;&#xA;The purpose is to actively safeguard the financial health of the sector by reducing fraud losses and administrative errors. It creates a deterrent effect that discourages systemic abuse of health insurance and public funds.&#xD;&#xA;&#xD;&#xA;Example: A real-time block on a claim where the patient's ID is being used simultaneously at two different facilities 500 miles apart."/>

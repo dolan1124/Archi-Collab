@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preventive and Risk Prediction Service"
+    id="id-87cd360d539346de8f55f2673e0d08c6"
+    documentation="This application service analyzes patient information and health indicators to identify potential health risks, preventive care needs, and high-risk populations. It uses predictive models and clinical rules to support early intervention and population health management.&#xD;&#xA;&#xD;&#xA;The purpose of this application service is to enable proactive healthcare delivery and supports early detection of diseases and adverse health events. It also assists healthcare organizations in prioritizing preventive interventions and care management activities.&#xD;&#xA;&#xD;&#xA;Example: A patient is automatically flagged as high risk for cardiovascular disease based on age, laboratory results, and lifestyle indicators."/>

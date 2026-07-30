@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DPI-H: Facility Registry"
+    id="id-a3b7a1d2792c400ba0398eb82affaf2d"
+    documentation="The self-contained software component within the national architecture that serves as the single, authoritative source of truth for identifying and authenticating all healthcare facilities. It maintains a secure, real-time database of unique facility IDs, geographic locations, operational statuses, and ownership details.&#xD;&#xA;&#xD;&#xA;It eliminates data duplication and confusion across disconnected government and hospital systems by providing a standardized registry interface. This consistent identification ensures that labor costs, resource distributions, and payroll allocations are mapped accurately to the exact facility where the work took place.&#xD;&#xA;&#xD;&#xA;Example: &quot;The DPI-H Facility Registry module that validates a clinic's unique national identifier before authorizing local staff payroll distributions and regional budget allocations.&quot;"/>

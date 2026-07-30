@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorization and Access Control Service"
+    id="id-12ec898bd2bc4f74b4014055c90cf7a4"
+    documentation="This service is a technical component that manages and enforces the rules and permissions for accessing health data within the TPHR ecosystem. it works in conjunction with identity services to ensure that only verified users with the correct privileges can interact with sensitive medical records.&#xD;&#xA;&#xD;&#xA;The purpose is to provide robust security and privacy by validating that every data request aligns with the patient’s explicit consent and the provider’s specific clinical role. This prevents the unauthorized exposure of personal information and ensures the integrity of the information exchange network.&#xD;&#xA;&#xD;&#xA;Example: A service that grants a physician &quot;read-only&quot; access to a patient's surgical history while automatically blocking access to their confidential counseling notes."/>

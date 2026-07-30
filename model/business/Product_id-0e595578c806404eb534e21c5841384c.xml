@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrated Clinical Decision Support Suite"
+    id="id-0e595578c806404eb534e21c5841384c"
+    documentation="An integrated clinical decision support suite combines multiple decision support tools into a unified healthcare platform. It provides alerts, reminders, recommendations, and predictive analytics within clinical workflows.&#xD;&#xA;&#xD;&#xA;The purpose of this suite is to enhance the efficiency, quality, and safety of clinical decision-making processes. It also ensures that providers receive timely and actionable insights during patient care.&#xD;&#xA;&#xD;&#xA;Example: An electronic medical record system displays medication safety alerts and preventive care reminders during patient consultations."/>

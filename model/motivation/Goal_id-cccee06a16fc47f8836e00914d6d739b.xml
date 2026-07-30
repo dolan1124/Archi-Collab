@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish a Secure, Universally Accessible, Verifiable Health Record for Every Individual"
+    id="id-cccee06a16fc47f8836e00914d6d739b"
+    documentation="This subgoal entails creating a national system to issue digital health records that are universally accessible and cryptographically verifiable. It ensures every person has a single, reliable point of truth for their medical history throughout their life.&#xD;&#xA;&#xD;&#xA;The intent is to provide lifelong health data portability and continuity of care for all citizens regardless of the provider they visit. It addresses the right to health by establishing an equitable, person-centric model of data ownership.&#xD;&#xA;&#xD;&#xA;A national program that issues a digital health ID and a corresponding verifiable record to every newborn."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminology Service"
+    id="id-81ffcd4c0fb849489a9e29d863c56fbf"
+    documentation="The Terminology Service metadata component manages code systems, value sets, and concept mappings to standardize health data semantics. It ensures that clinical concepts are represented consistently throughout the national health record.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure that medical records have a consistent and verifiable content structure across all sources. It enables interoperable communication and allows for effective automated analysis of population health trends.&#xD;&#xA;&#xD;&#xA;Example: A metadata registry of value sets that defines the specific codes for &quot;allergic reactions&quot; to be used in all digital health apps."/>

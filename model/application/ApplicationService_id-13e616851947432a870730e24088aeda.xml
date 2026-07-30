@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Encryption and Key Management Service"
+    id="id-13e616851947432a870730e24088aeda"
+    documentation="This service manages the cryptographic keys used for data encryption and decryption across the ecosystem. It ensures that the keys are stored securely and only accessible to authorized processes.&#xD;&#xA;&#xD;&#xA;The purpose is to provide the underlying security mechanism for protecting data privacy. Effective key management is essential for the long-term safety of encrypted health information.&#xD;&#xA;&#xD;&#xA;Example: A service that rotates the database encryption keys every 90 days to maintain high security standards.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security and Audit Services"
+    id="id-c208d6c7a6004b869a9a5e3a2335a7ed"
+    documentation="The Interoperability Gateway is a standardized platform that enables the secure exchange of clinical data between disparate health systems. It acts as the &quot;switch&quot; that routes information based on standards and permissions.&#xD;&#xA;&#xD;&#xA;The purpose is to solve the problem of data silos and enable a unified view of the patient’s history. It is the technical backbone for all cross-facility care coordination and reporting.&#xD;&#xA;&#xD;&#xA;Example: A regional data hub that connects 50 different clinic EMRs to the national shared health record repository.&#xD;&#xA;"/>

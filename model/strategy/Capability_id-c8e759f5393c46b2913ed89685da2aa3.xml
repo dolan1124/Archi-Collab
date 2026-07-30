@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Benefits Specification and Rules Management"
+    id="id-c8e759f5393c46b2913ed89685da2aa3"
+    documentation="This capability involves the definition and management of the specific health services, medications, and access conditions covered by a health scheme. It maintains the &quot;rules engine&quot; that determines what is paid for and under what circumstances.&#xD;&#xA;&#xD;&#xA;The purpose is to align the available health budget with the most critical needs of the population. It provides a transparent and machine-readable framework that ensures consistent benefit application across all healthcare facilities.&#xD;&#xA;&#xD;&#xA;Example: Updating the national insurance rules to include a newly approved high-value medication for heart disease."/>

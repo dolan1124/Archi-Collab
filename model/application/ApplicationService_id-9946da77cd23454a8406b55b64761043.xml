@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Monitoring, Alerting, and Incident Response"
+    id="id-9946da77cd23454a8406b55b64761043"
+    documentation="This service continuously scans the health financing infrastructure for signs of cyberattacks, unauthorized access, or system misuse. It provides real-time alerts and manages the execution of response plans to neutralize threats as they occur.&#xD;&#xA;The objective is to maintain the continuous availability and security of the national payment and finance network. It ensures that any breach of sensitive data is detected immediately and its impact is minimized through a rapid response.&#xD;&#xA;Example: An automated alert that blocks a user’s access after detecting multiple failed login attempts from a suspicious location."/>

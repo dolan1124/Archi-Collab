@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Control and Authentication Component"
+    id="id-df1bd888ccfa4bcd9f24e659cd90db68"
+    documentation="Access Control and Authentication Component: Ensures that only authorized personnel can access sensitive patient information, adhering to privacy regulations."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Care Plan Repository Service "
+    id="id-a0071b0bf0ae40829b380a117f45fc18"
+    documentation="A Shared Care Plan Repository Service is a centralized, cloud-based data storage system that hosts and maintains a single, dynamic care plan accessible and editable by all authorized members of a patient's multidisciplinary healthcare team.&#xD;&#xA;&#xD;&#xA;Its purpose is to establish a &quot;single source of truth&quot; for a patient's treatment strategy, ensuring that primary care doctors, specialists, home health nurses, and the patients themselves are aligned on the same goals, tasks, and interventions.&#xD;&#xA;&#xD;&#xA;Example: A diabetic patient's endocrinologist, nutritionist, and family doctor use this service to view and update the same active care plan, allowing the nutritionist to see the doctor's adjusted insulin goals and update dietary recommendations accordingly."/>

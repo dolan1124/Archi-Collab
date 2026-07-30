@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referal Management System Service"
+    id="id-dc6a28428d774ffda406d60569a7205c"
+    documentation="A Referral Management System is a specialized health information platform that digitizes, tracks, and manages the end-to-end process of directing patients from primary care providers to medical specialists or secondary care facilities.&#xD;&#xA;&#xD;&#xA;Its purpose is to optimize the patient handoff process, reduce wait times, and prevent dropped referrals by ensuring that clinical documentation, insurance pre-authorizations, and appointment statuses flow smoothly between care settings.&#xD;&#xA;&#xD;&#xA;Example: A family doctor uses this system to instantly transmit a patient's cardiac charts to a local cardiologist, track when the specialist schedules the appointment, and automatically receive the consultation notes back into the primary care chart once the visit is complete."/>

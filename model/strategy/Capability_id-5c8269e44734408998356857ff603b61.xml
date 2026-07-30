@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Governance"
+    id="id-5c8269e44734408998356857ff603b61"
+    documentation="This capability establishes the policies, standards, and rules for the quality, security, and ethical use of health data. It involves the management of metadata, data provenance, and stewardship responsibilities.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure that data within the ecosystem is reliable, standardized, and used appropriately. It provides the framework for accountability and trust across all participating stakeholders.&#xD;&#xA;&#xD;&#xA;Example: A national data council defining the mandatory data quality standards for all PHR-contributing facilities.&#xD;&#xA;"/>

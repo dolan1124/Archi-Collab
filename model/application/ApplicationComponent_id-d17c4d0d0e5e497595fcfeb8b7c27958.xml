@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminology Server"
+    id="id-d17c4d0d0e5e497595fcfeb8b7c27958"
+    documentation="A Terminology Server is a specialized system used to manage, distribute, and map medical vocabularies and code systems. It hosts international standards such as SNOMED CT, ICD, and LOINC to ensure clinical data is machine-readable.&#xD;&#xA;&#xD;&#xA;Its purpose is to provide a central source for medical coding, ensuring that clinical data has the same meaning across different systems. It enables semantic interoperability, which is essential for accurate clinical decision support and data aggregation.&#xD;&#xA;&#xD;&#xA;Example: A server that maps a local hospital's &quot;chest pain&quot; code to the international standard ICD-10 code for Angina."/>

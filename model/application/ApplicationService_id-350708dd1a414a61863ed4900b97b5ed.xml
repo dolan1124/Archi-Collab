@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care Protocol Management Service"
+    id="id-350708dd1a414a61863ed4900b97b5ed"
+    documentation="Care Protocol Management Service: This service manages, updates, and distributes the latest evidence-based care protocols to all connected healthcare facilities."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence-based Care Guidance"
+    id="id-fbf5ce0df19a4942bfa13d6898866c8b"
+    documentation="This capability provides structured clinical recommendations derived from validated research and approved healthcare standards. It supports healthcare providers in making informed decisions for diagnosis, treatment, and patient management.&#xD;&#xA;&#xD;&#xA;The purpose of this capability is to ensure that clinical decisions align with current best practices and scientific evidence. It also improves patient safety and consistency in healthcare delivery.&#xD;&#xA;&#xD;&#xA;Example: COVID-19 treatment protocols are updated regularly based on the latest recommendations from the World Health Organization."/>

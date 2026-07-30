@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Protection and Privacy Enforcement"
+    id="id-534501cdafa14aa0bf084c4a949fe93d"
+    documentation="This capability involves the technical and administrative controls used to enforce privacy policies and protect sensitive data from unauthorized disclosure. It includes encryption, data masking, and the automated enforcement of patient consent settings.&#xD;&#xA;&#xD;&#xA;The purpose is to ensure that the health system remains compliant with national and international data protection laws. It builds citizen trust by providing tangible proof that their sensitive financial and medical data is being handled ethically and securely.&#xD;&#xA;&#xD;&#xA;Example: A privacy service that automatically encrypts a patient's diagnosis and prescription data whenever it is shared with an insurance auditor."/>
